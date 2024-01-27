@@ -6,8 +6,8 @@ let wordsArray;
 fetch('--------------------')
 /* insert the location of your json file with the wordsStyle:
 {
-    "name": "Ärztin",
-    "type": "Hauptwort",
+    "name": "House",
+    "type": "Subject", /*"Subject" or "Verb"*/
     "id": 2
   } */
   .then(res => res.json())
@@ -37,7 +37,7 @@ let value = "00:00";
 
 function select_noun(){
     wordtype = $.grep(wordsArray, function (n,i){
-        return n.type==='Hauptwort'
+        return n.type==='Subject'
     });
 }
 
