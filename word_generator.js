@@ -3,13 +3,14 @@ $(document).ready(function (){
 })
 
 let wordsArray;
-fetch('--------------------')
+fetch('data/words_v2.json')
 /* insert the location of your json file with the wordsStyle:
 {
     "name": "House",
-    "type": "Subject", /*"Subject" or "Verb"*/
+    "type": "Subject", /*"Subject" or "Verb"
     "id": 2
-  } */
+  }
+  */
   .then(res => res.json())
   .then(data => wordsArray = data)
   .then(() => console.log(wordsArray))
@@ -88,7 +89,7 @@ new_word.addEventListener("click", function(){
     } else if(allwords_select.dataset.clicked){
         select_allwords()
     } else {
-    alert('Choose a wordtype first');
+    alert('Such zuerst eine Wortart aus.');
     };
     genRandomWord();
     delete noun_select.dataset.clicked;
