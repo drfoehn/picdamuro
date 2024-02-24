@@ -38,7 +38,7 @@ let value = "00:00";
 
 function select_noun(){
     wordtype = $.grep(wordsArray, function (n,i){
-        return n.type==='Subject'
+        return n.type==='Hauptwort'
     });
 }
 
