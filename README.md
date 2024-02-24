@@ -9,12 +9,8 @@ Currently the file consits only of German words, but you can edit as you please.
 There is also a CSS dice which shows up after you have guessed the word.
 
 ## How to play:
-* Make a boardgame with alternating fields of blue, red and yellow (or use mine: see picdamuro.pdf in the files)
-* Depending on the color of the field you are standing on, choose "Verb" (red), "Subject" (blue) or "Egal" (yellow) and click "Neues Wort"
-* Once you are ready click "Start" (The word itself will disappear so the other team can check the clock).
-* If the time is up the screen turns red and the word will automatically reappear.
-* If you guessed the word correctly press stop (The word will reappear for the other team to check including a CSS dice to toss)
-* Toss the dice by clicking on it and move on the board accordingly.
+* Make a boardgame with alternating fields of blue, red and yellow (or use mine: see Spielplan_Picdamuro.pdf in the files)
+* The games rules are available on the index.html (in German)
 
 You can also press pause in case you need to go to the toilet in the meantime :)
 
