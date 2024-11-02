@@ -20,17 +20,27 @@ The objective of the game is to correctly identify and draw words based on the c
 
 ### Gameplay Instructions
 
+#### Downloadable Game Board
+
+A game board (Spielplan) can be downloaded from the data folder. You can find it [here](https://github.com/drfoehn/picdamuro/blob/main/data/Spielplan_Picdamuro.pdf).
+
 #### English Version
 
 1. **Starting the Game**:
    - Played in groups with at least 2 players per group.
    - Within the group, players take turns—one draws while the others guess.
-   - Open the Picdamuro mobile app (https://drevil.uber.space/picdamuro) and select a word type.
+   - Open the Picdamuro mobile app locally by opening index.html or put it on your server and start it from there. 
+   - Select a word type.
    
 2. **Field Colors and Actions**:
    - **Red Field**: 
      - If you land on a red field, a **verb** must be chosen.
      - (Children may also choose a subject if they land on a blue field.)
+   - Click on "Neuer Begriff" (New Term).
+   - If the term is unfamiliar, you can choose a new term.
+
+   - **Blue Field**: 
+     - If you land on a red field, a **subject** must be chosen.
    - Click on "Neuer Begriff" (New Term).
    - If the term is unfamiliar, you can choose a new term.
    
@@ -39,6 +49,8 @@ The objective of the game is to correctly identify and draw words based on the c
    - The others in the group must not see the term.
    - Are you ready? Then press "Start" and place the phone face up.
    - You have one minute.
+   - The countdown begins as soon as you hit start. You have 1 minute to draw.
+   - The category of the selected word will be displayed during the drawing phase.
    - No numbers or letters may be drawn.
    - You cannot speak or give hints through pantomime.
    - If you guess the term before the minute is up, press "Fertig" (Done).
@@ -51,9 +63,12 @@ The objective of the game is to correctly identify and draw words based on the c
 5. **Yellow Field**:
    - If you land on a yellow field, all groups draw simultaneously.
    - The first group to guess the term may roll the die and continue.
+   - Yellow fields are valid only once for drawing simultaneously If you are still on the same yellow field the second time (meaning you did not move), you choose yellow (Egal) when choosing a word, but only your party is allowed to draw.
    
 6. **Final Field**:
-   - Upon reaching the last field, you must play "together" once more.
+   - The last field is also yellow, but the rules change.
+   - You must play against all other parties each time until you win.
+   - This means that every time you land on this field, you must compete with all other players to say the correct word.
    - Whoever masters this final hurdle wins!
    - Have fun!
 
@@ -62,36 +77,47 @@ The objective of the game is to correctly identify and draw words based on the c
 1. **Spielbeginn**:
    - Gespielt wird in Gruppen mit mindestens 2 Spielern pro Gruppe.
    - Innerhalb der Gruppe wird immer abgewechselt – einer zeichnet und die anderen aus der Gruppe raten.
-   - Öffne die Picdamuro-Handy-App (https://drevil.uber.space/picdamuro) und wähle einen Worttyp aus.
+   - Öffne die Picdamuro-Handy-App lokal indem du index.html öffnest oder lade es auf deinen Server und starte es von dort. 
+   - Wähle einen Worttyp aus.
    
-2. **Feldfarben und Aktionen**:
+2. 2. **Feldfarben und Aktionen**:
    - **Rotes Feld**: 
      - Stehst du auf einem roten Feld, muss ein **Verb** ausgesucht werden.
      - (Kinder dürfen auch ein Subjekt aussuchen, wenn sie auf einem blauen Feld stehen.)
-   - Danach klickst du auf „Neuer Begriff".
+   - Klicke auf „Neuer Begriff“.
+   - Sollte dir der Begriff nicht bekannt sein, kannst du einen neuen Begriff aussuchen.
+
+   - **Blaues Feld**: 
+     - Stehst du auf einem blauen Feld, muss ein **Subjekt** ausgesucht werden.
+   - Klicke auf „Neuer Begriff“.
    - Sollte dir der Begriff nicht bekannt sein, kannst du einen neuen Begriff aussuchen.
    
 3. **Zeichenphase**:
    - Jetzt geht’s ans Zeichnen!
-   - Logischerweise dürfen die anderen aus der Gruppe den Begriff nicht sehen.
-   - Bist du bereit? Dann drücke auf „Start" und leg das Handy offen hin.
+   - Die anderen in der Gruppe dürfen den Begriff nicht sehen.
+   - Bist du bereit? Dann drücke auf „Start“ und lege das Handy offen hin.
    - Du hast eine Minute Zeit.
+   - Der Countdown beginnt, sobald du auf Start drückst. Du hast 1 Minute Zeit zum Zeichnen.
+   - Die Kategorie des ausgewählten Begriffs wird während der Zeichenphase angezeigt.
    - Es dürfen keine Zahlen oder Buchstaben gezeichnet werden.
    - Du darfst auch nicht reden oder pantomimisch Hinweise geben.
-   - Solltet ihr vor dem Ablauf der Minute den Begriff erraten haben, drückt auf "Fertig".
+   - Solltet ihr vor Ablauf der Minute den Begriff erraten haben, drückt auf „Fertig“.
    
 4. **Würfeln**:
-   - Nun erscheint ein Würfel mit einer maximalen Augenzahl von 4.
-   - Drückt auf den Würfel und zieht weiter.
+   - Ein Würfel erscheint mit einer maximalen Augenzahl von 4.
+   - Drücke auf den Würfel und ziehe weiter.
    - Egal, ob ihr den Begriff erraten habt oder nicht, nun ist die nächste Gruppe dran.
    
 5. **Gelbes Feld**:
    - Solltest du auf einem gelben Feld gelandet sein, zeichnen alle Gruppen gleichzeitig.
-   - Wer als erstes den Begriff errät, darf würfeln und weitermachen.
+   - Die erste Gruppe, die den Begriff errät, darf würfeln und weitermachen.
+   - Gelbe Felder sind nur einmal für das gleichzeitige Zeichnen gültig. Wenn du beim zweiten Mal auf demselben gelben Feld bleibst (d.h. du hast dich nicht bewegt), wählst du gelb (Egal), wenn du einen Begriff auswählst, aber nur deine Gruppe darf zeichnen.
    
 6. **Letztes Feld**:
-   - Am letzten Feld angekommen, muss noch einmal „gemeinsam" gespielt werden.
-   - Wer diese letzte Hürde meistert, hat gewonnen!
+   - Das letzte Feld ist ebenfalls gelb, aber die Regeln ändern sich.
+   - Du musst jedes Mal gegen alle anderen Gruppen spielen, bis du gewinnst.
+   - Das bedeutet, dass du jedes Mal, wenn du auf diesem Feld landest, mit allen anderen Spielern um die richtige Antwort konkurrieren musst.
+   - Wer diese letzte Hürde meistert, gewinnt!
    - Viel Spaß!
 
 ## Installation
