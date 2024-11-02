@@ -1,0 +1,6862 @@
+[
+    {
+        "name": "Ärger",
+        "type": "Hauptwort",
+        "id": "1"
+    },
+    {
+        "name": "abbauen",
+        "type": "Verb",
+        "id": 2
+    },
+    {
+        "name": "abfahren",
+        "type": "Verb",
+        "id": 3
+    },
+    {
+        "name": "abgeben",
+        "type": "Verb",
+        "id": 4
+    },
+    {
+        "name": "abholen",
+        "type": "Verb",
+        "id": 5
+    },
+    {
+        "name": "abschließen",
+        "type": "Verb",
+        "id": 6
+    },
+    {
+        "name": "abstimmen",
+        "type": "Verb",
+        "id": 7
+    },
+    {
+        "name": "achten",
+        "type": "Verb",
+        "id": 8
+    },
+    {
+        "name": "ackern",
+        "type": "Verb",
+        "id": 9
+    },
+    {
+        "name": "ändern",
+        "type": "Verb",
+        "id": 10
+    },
+    {
+        "name": "angreifen",
+        "type": "Verb",
+        "id": 11
+    },
+    {
+        "name": "ankommen",
+        "type": "Verb",
+        "id": 12
+    },
+    {
+        "name": "ankreiden",
+        "type": "Verb",
+        "id": 13
+    },
+    {
+        "name": "anmelden",
+        "type": "Verb",
+        "id": 14
+    },
+    {
+        "name": "anordnen",
+        "type": "Verb",
+        "id": 15
+    },
+    {
+        "name": "antworten",
+        "type": "Verb",
+        "id": 16
+    },
+    {
+        "name": "antreten",
+        "type": "Verb",
+        "id": 17
+    },
+    {
+        "name": "anziehen",
+        "type": "Verb",
+        "id": 18
+    },
+    {
+        "name": "arbeiten",
+        "type": "Verb",
+        "id": 19
+    },
+    {
+        "name": "ärgern",
+        "type": "Verb",
+        "id": 20
+    },
+    {
+        "name": "aufbauen",
+        "type": "Verb",
+        "id": 21
+    },
+    {
+        "name": "aufbewahren",
+        "type": "Verb",
+        "id": 22
+    },
+    {
+        "name": "aufdecken",
+        "type": "Verb",
+        "id": 23
+    },
+    {
+        "name": "auffallen",
+        "type": "Verb",
+        "id": 24
+    },
+    {
+        "name": "aufführen",
+        "type": "Verb",
+        "id": 25
+    },
+    {
+        "name": "aufgeben",
+        "type": "Verb",
+        "id": 26
+    },
+    {
+        "name": "aufhängen",
+        "type": "Verb",
+        "id": 27
+    },
+    {
+        "name": "aufräumen",
+        "type": "Verb",
+        "id": 28
+    },
+    {
+        "name": "aufsteigen",
+        "type": "Verb",
+        "id": 29
+    },
+    {
+        "name": "aufwachen",
+        "type": "Verb",
+        "id": 30
+    },
+    {
+        "name": "ausatmen",
+        "type": "Verb",
+        "id": 31
+    },
+    {
+        "name": "ausbauen",
+        "type": "Verb",
+        "id": 32
+    },
+    {
+        "name": "ausbessern",
+        "type": "Verb",
+        "id": 33
+    },
+    {
+        "name": "ausdrücken",
+        "type": "Verb",
+        "id": 34
+    },
+    {
+        "name": "ausfahren",
+        "type": "Verb",
+        "id": 35
+    },
+    {
+        "name": "ausgehen",
+        "type": "Verb",
+        "id": 36
+    },
+    {
+        "name": "aushalten",
+        "type": "Verb",
+        "id": 37
+    },
+    {
+        "name": "ausliefern",
+        "type": "Verb",
+        "id": 38
+    },
+    {
+        "name": "auspacken",
+        "type": "Verb",
+        "id": 39
+    },
+    {
+        "name": "ausrasten",
+        "type": "Verb",
+        "id": 40
+    },
+    {
+        "name": "ausruhen",
+        "type": "Verb",
+        "id": 41
+    },
+    {
+        "name": "ausschalten",
+        "type": "Verb",
+        "id": 42
+    },
+    {
+        "name": "ausschlafen",
+        "type": "Verb",
+        "id": 43
+    },
+    {
+        "name": "aussehen",
+        "type": "Verb",
+        "id": 44
+    },
+    {
+        "name": "aussteigen",
+        "type": "Verb",
+        "id": 45
+    },
+    {
+        "name": "austreten",
+        "type": "Verb",
+        "id": 46
+    },
+    {
+        "name": "ausziehen",
+        "type": "Verb",
+        "id": 47
+    },
+    {
+        "name": "baden",
+        "type": "Verb",
+        "id": 48
+    },
+    {
+        "name": "bahnen",
+        "type": "Verb",
+        "id": 49
+    },
+    {
+        "name": "ballen",
+        "type": "Verb",
+        "id": 50
+    },
+    {
+        "name": "bangen",
+        "type": "Verb",
+        "id": 51
+    },
+    {
+        "name": "basteln",
+        "type": "Verb",
+        "id": 52
+    },
+    {
+        "name": "baten",
+        "type": "Verb",
+        "id": 53
+    },
+    {
+        "name": "bauen",
+        "type": "Verb",
+        "id": 54
+    },
+    {
+        "name": "beben",
+        "type": "Verb",
+        "id": 55
+    },
+    {
+        "name": "bedauern",
+        "type": "Verb",
+        "id": 56
+    },
+    {
+        "name": "befehlen",
+        "type": "Verb",
+        "id": 57
+    },
+    {
+        "name": "befolgen",
+        "type": "Verb",
+        "id": 58
+    },
+    {
+        "name": "befragen",
+        "type": "Verb",
+        "id": 59
+    },
+    {
+        "name": "befreien",
+        "type": "Verb",
+        "id": 60
+    },
+    {
+        "name": "befestigen",
+        "type": "Verb",
+        "id": 61
+    },
+    {
+        "name": "begehen",
+        "type": "Verb",
+        "id": 62
+    },
+    {
+        "name": "begeistern",
+        "type": "Verb",
+        "id": 63
+    },
+    {
+        "name": "beginnen",
+        "type": "Verb",
+        "id": 64
+    },
+    {
+        "name": "begleiten",
+        "type": "Verb",
+        "id": 65
+    },
+    {
+        "name": "begraben",
+        "type": "Verb",
+        "id": 66
+    },
+    {
+        "name": "begreifen",
+        "type": "Verb",
+        "id": 67
+    },
+    {
+        "name": "begreifen",
+        "type": "Verb",
+        "id": 68
+    },
+    {
+        "name": "beheben",
+        "type": "Verb",
+        "id": 69
+    },
+    {
+        "name": "behandeln",
+        "type": "Verb",
+        "id": 70
+    },
+    {
+        "name": "behüten",
+        "type": "Verb",
+        "id": 71
+    },
+    {
+        "name": "beißen",
+        "type": "Verb",
+        "id": 72
+    },
+    {
+        "name": "bekennen",
+        "type": "Verb",
+        "id": 73
+    },
+    {
+        "name": "bekommen",
+        "type": "Verb",
+        "id": 74
+    },
+    {
+        "name": "beladen",
+        "type": "Verb",
+        "id": 75
+    },
+    {
+        "name": "beleben",
+        "type": "Verb",
+        "id": 76
+    },
+    {
+        "name": "belohnen",
+        "type": "Verb",
+        "id": 77
+    },
+    {
+        "name": "bemühen",
+        "type": "Verb",
+        "id": 78
+    },
+    {
+        "name": "bemalen",
+        "type": "Verb",
+        "id": 79
+    },
+    {
+        "name": "bemerken",
+        "type": "Verb",
+        "id": 80
+    },
+    {
+        "name": "benennen",
+        "type": "Verb",
+        "id": 81
+    },
+    {
+        "name": "beobachten",
+        "type": "Verb",
+        "id": 82
+    },
+    {
+        "name": "benutzen",
+        "type": "Verb",
+        "id": 83
+    },
+    {
+        "name": "beratschlagen",
+        "type": "Verb",
+        "id": 84
+    },
+    {
+        "name": "berechnen",
+        "type": "Verb",
+        "id": 85
+    },
+    {
+        "name": "bereichern",
+        "type": "Verb",
+        "id": 86
+    },
+    {
+        "name": "berichten",
+        "type": "Verb",
+        "id": 87
+    },
+    {
+        "name": "beruhigen",
+        "type": "Verb",
+        "id": 88
+    },
+    {
+        "name": "berühren",
+        "type": "Verb",
+        "id": 89
+    },
+    {
+        "name": "beschließen",
+        "type": "Verb",
+        "id": 90
+    },
+    {
+        "name": "beschreiben",
+        "type": "Verb",
+        "id": 91
+    },
+    {
+        "name": "beschützen",
+        "type": "Verb",
+        "id": 92
+    },
+    {
+        "name": "besorgen",
+        "type": "Verb",
+        "id": 93
+    },
+    {
+        "name": "bespannen",
+        "type": "Verb",
+        "id": 94
+    },
+    {
+        "name": "bestechen",
+        "type": "Verb",
+        "id": 95
+    },
+    {
+        "name": "bestehen",
+        "type": "Verb",
+        "id": 96
+    },
+    {
+        "name": "bestimmen",
+        "type": "Verb",
+        "id": 97
+    },
+    {
+        "name": "betonen",
+        "type": "Verb",
+        "id": 98
+    },
+    {
+        "name": "betrügen",
+        "type": "Verb",
+        "id": 99
+    },
+    {
+        "name": "betreten",
+        "type": "Verb",
+        "id": 100
+    },
+    {
+        "name": "betrachten",
+        "type": "Verb",
+        "id": 101
+    },
+    {
+        "name": "beugen",
+        "type": "Verb",
+        "id": 102
+    },
+    {
+        "name": "bewachen",
+        "type": "Verb",
+        "id": 103
+    },
+    {
+        "name": "bewegen",
+        "type": "Verb",
+        "id": 104
+    },
+    {
+        "name": "bewilligen",
+        "type": "Verb",
+        "id": 105
+    },
+    {
+        "name": "bewundern",
+        "type": "Verb",
+        "id": 106
+    },
+    {
+        "name": "bezahlen",
+        "type": "Verb",
+        "id": 107
+    },
+    {
+        "name": "bezaubern",
+        "type": "Verb",
+        "id": 108
+    },
+    {
+        "name": "beziehen",
+        "type": "Verb",
+        "id": 109
+    },
+    {
+        "name": "bezweifeln",
+        "type": "Verb",
+        "id": 110
+    },
+    {
+        "name": "bicken",
+        "type": "Verb",
+        "id": 111
+    },
+    {
+        "name": "bieten",
+        "type": "Verb",
+        "id": 112
+    },
+    {
+        "name": "binden",
+        "type": "Verb",
+        "id": 113
+    },
+    {
+        "name": "bitten",
+        "type": "Verb",
+        "id": 114
+    },
+    {
+        "name": "blasen",
+        "type": "Verb",
+        "id": 115
+    },
+    {
+        "name": "bleiben",
+        "type": "Verb",
+        "id": 116
+    },
+    {
+        "name": "blenden",
+        "type": "Verb",
+        "id": 117
+    },
+    {
+        "name": "blicken",
+        "type": "Verb",
+        "id": 118
+    },
+    {
+        "name": "blinken",
+        "type": "Verb",
+        "id": 119
+    },
+    {
+        "name": "blitzen",
+        "type": "Verb",
+        "id": 120
+    },
+    {
+        "name": "blühen",
+        "type": "Verb",
+        "id": 121
+    },
+    {
+        "name": "bluten",
+        "type": "Verb",
+        "id": 122
+    },
+    {
+        "name": "bohren",
+        "type": "Verb",
+        "id": 123
+    },
+    {
+        "name": "borgen",
+        "type": "Verb",
+        "id": 124
+    },
+    {
+        "name": "braten",
+        "type": "Verb",
+        "id": 125
+    },
+    {
+        "name": "brauen",
+        "type": "Verb",
+        "id": 126
+    },
+    {
+        "name": "brechen",
+        "type": "Verb",
+        "id": 127
+    },
+    {
+        "name": "breiten",
+        "type": "Verb",
+        "id": 128
+    },
+    {
+        "name": "brennen",
+        "type": "Verb",
+        "id": 129
+    },
+    {
+        "name": "bringen",
+        "type": "Verb",
+        "id": 130
+    },
+    {
+        "name": "bröckeln",
+        "type": "Verb",
+        "id": 131
+    },
+    {
+        "name": "brüllen",
+        "type": "Verb",
+        "id": 132
+    },
+    {
+        "name": "brummen",
+        "type": "Verb",
+        "id": 133
+    },
+    {
+        "name": "brunnen",
+        "type": "Verb",
+        "id": 134
+    },
+    {
+        "name": "bürsten",
+        "type": "Verb",
+        "id": 135
+    },
+    {
+        "name": "chatten",
+        "type": "Verb",
+        "id": 136
+    },
+    {
+        "name": "denken",
+        "type": "Verb",
+        "id": 137
+    },
+    {
+        "name": "dienen",
+        "type": "Verb",
+        "id": 138
+    },
+    {
+        "name": "dingen",
+        "type": "Verb",
+        "id": 139
+    },
+    {
+        "name": "donnern",
+        "type": "Verb",
+        "id": 140
+    },
+    {
+        "name": "danken",
+        "type": "Verb",
+        "id": 141
+    },
+    {
+        "name": "darben",
+        "type": "Verb",
+        "id": 142
+    },
+    {
+        "name": "darlegen",
+        "type": "Verb",
+        "id": 143
+    },
+    {
+        "name": "darreichen",
+        "type": "Verb",
+        "id": 144
+    },
+    {
+        "name": "darstellen",
+        "type": "Verb",
+        "id": 145
+    },
+    {
+        "name": "essen",
+        "type": "Verb",
+        "id": 146
+    },
+    {
+        "name": "eilen",
+        "type": "Verb",
+        "id": 147
+    },
+    {
+        "name": "empfinden",
+        "type": "Verb",
+        "id": 148
+    },
+    {
+        "name": "empören",
+        "type": "Verb",
+        "id": 149
+    },
+    {
+        "name": "emporsteigen",
+        "type": "Verb",
+        "id": 150
+    },
+    {
+        "name": "fahren",
+        "type": "Verb",
+        "id": 151
+    },
+    {
+        "name": "fallen",
+        "type": "Verb",
+        "id": 152
+    },
+    {
+        "name": "fangen",
+        "type": "Verb",
+        "id": 153
+    },
+    {
+        "name": "färben",
+        "type": "Verb",
+        "id": 154
+    },
+    {
+        "name": "fauchen",
+        "type": "Verb",
+        "id": 155
+    },
+    {
+        "name": "geben",
+        "type": "Verb",
+        "id": 156
+    },
+    {
+        "name": "gehen",
+        "type": "Verb",
+        "id": 157
+    },
+    {
+        "name": "gedeihen",
+        "type": "Verb",
+        "id": 158
+    },
+    {
+        "name": "gedulden",
+        "type": "Verb",
+        "id": 159
+    },
+    {
+        "name": "gefährden",
+        "type": "Verb",
+        "id": 160
+    },
+    {
+        "name": "haben",
+        "type": "Verb",
+        "id": 161
+    },
+    {
+        "name": "halten",
+        "type": "Verb",
+        "id": 162
+    },
+    {
+        "name": "handeln",
+        "type": "Verb",
+        "id": 163
+    },
+    {
+        "name": "hängen",
+        "type": "Verb",
+        "id": 164
+    },
+    {
+        "name": "hassen",
+        "type": "Verb",
+        "id": 165
+    },
+    {
+        "name": "irren",
+        "type": "Verb",
+        "id": 166
+    },
+    {
+        "name": "jagen",
+        "type": "Verb",
+        "id": 167
+    },
+    {
+        "name": "jubeln",
+        "type": "Verb",
+        "id": 168
+    },
+    {
+        "name": "kämmen",
+        "type": "Verb",
+        "id": 169
+    },
+    {
+        "name": "kämpfen",
+        "type": "Verb",
+        "id": 170
+    },
+    {
+        "name": "jagen",
+        "type": "Verb",
+        "id": 171
+    },
+    {
+        "name": "jammern",
+        "type": "Verb",
+        "id": 172
+    },
+    {
+        "name": "jauchzen",
+        "type": "Verb",
+        "id": 173
+    },
+    {
+        "name": "jäten",
+        "type": "Verb",
+        "id": 174
+    },
+    {
+        "name": "johlen",
+        "type": "Verb",
+        "id": 175
+    },
+    {
+        "name": "kaufen",
+        "type": "Verb",
+        "id": 176
+    },
+    {
+        "name": "kämpfen",
+        "type": "Verb",
+        "id": 177
+    },
+    {
+        "name": "kehren",
+        "type": "Verb",
+        "id": 178
+    },
+    {
+        "name": "kennen",
+        "type": "Verb",
+        "id": 179
+    },
+    {
+        "name": "kichern",
+        "type": "Verb",
+        "id": 180
+    },
+    {
+        "name": "lachen",
+        "type": "Verb",
+        "id": 181
+    },
+    {
+        "name": "laden",
+        "type": "Verb",
+        "id": 182
+    },
+    {
+        "name": "lassen",
+        "type": "Verb",
+        "id": 183
+    },
+    {
+        "name": "laufen",
+        "type": "Verb",
+        "id": 184
+    },
+    {
+        "name": "lauschen",
+        "type": "Verb",
+        "id": 185
+    },
+    {
+        "name": "machen",
+        "type": "Verb",
+        "id": 186
+    },
+    {
+        "name": "mahlen",
+        "type": "Verb",
+        "id": 187
+    },
+    {
+        "name": "mahnen",
+        "type": "Verb",
+        "id": 188
+    },
+    {
+        "name": "malen",
+        "type": "Verb",
+        "id": 189
+    },
+    {
+        "name": "mähen",
+        "type": "Verb",
+        "id": 190
+    },
+    {
+        "name": "nehmen",
+        "type": "Verb",
+        "id": 191
+    },
+    {
+        "name": "nennen",
+        "type": "Verb",
+        "id": 192
+    },
+    {
+        "name": "nicken",
+        "type": "Verb",
+        "id": 193
+    },
+    {
+        "name": "nießen",
+        "type": "Verb",
+        "id": 194
+    },
+    {
+        "name": "notieren",
+        "type": "Verb",
+        "id": 195
+    },
+    {
+        "name": "öffnen",
+        "type": "Verb",
+        "id": 196
+    },
+    {
+        "name": "opfern",
+        "type": "Verb",
+        "id": 197
+    },
+    {
+        "name": "ordnen",
+        "type": "Verb",
+        "id": 198
+    },
+    {
+        "name": "orten",
+        "type": "Verb",
+        "id": 199
+    },
+    {
+        "name": "packen",
+        "type": "Verb",
+        "id": 200
+    },
+    {
+        "name": "packen",
+        "type": "Verb",
+        "id": 201
+    },
+    {
+        "name": "passen",
+        "type": "Verb",
+        "id": 202
+    },
+    {
+        "name": "pausen",
+        "type": "Verb",
+        "id": 203
+    },
+    {
+        "name": "peilen",
+        "type": "Verb",
+        "id": 204
+    },
+    {
+        "name": "pflanzen",
+        "type": "Verb",
+        "id": 205
+    },
+    {
+        "name": "quälen",
+        "type": "Verb",
+        "id": 206
+    },
+    {
+        "name": "quellen",
+        "type": "Verb",
+        "id": 207
+    },
+    {
+        "name": "quittieren",
+        "type": "Verb",
+        "id": 208
+    },
+    {
+        "name": "raffen",
+        "type": "Verb",
+        "id": 209
+    },
+    {
+        "name": "ragen",
+        "type": "Verb",
+        "id": 210
+    },
+    {
+        "name": "rahmen",
+        "type": "Verb",
+        "id": 211
+    },
+    {
+        "name": "rasen",
+        "type": "Verb",
+        "id": 212
+    },
+    {
+        "name": "rasten",
+        "type": "Verb",
+        "id": 213
+    },
+    {
+        "name": "sagen",
+        "type": "Verb",
+        "id": 214
+    },
+    {
+        "name": "sammeln",
+        "type": "Verb",
+        "id": 215
+    },
+    {
+        "name": "säubern",
+        "type": "Verb",
+        "id": 216
+    },
+    {
+        "name": "saufen",
+        "type": "Verb",
+        "id": 217
+    },
+    {
+        "name": "schaffen",
+        "type": "Verb",
+        "id": 218
+    },
+    {
+        "name": "tanzen",
+        "type": "Verb",
+        "id": 219
+    },
+    {
+        "name": "tauchen",
+        "type": "Verb",
+        "id": 220
+    },
+    {
+        "name": "taufen",
+        "type": "Verb",
+        "id": 221
+    },
+    {
+        "name": "täuschen",
+        "type": "Verb",
+        "id": 222
+    },
+    {
+        "name": "teilen",
+        "type": "Verb",
+        "id": 223
+    },
+    {
+        "name": "überfallen",
+        "type": "Verb",
+        "id": 224
+    },
+    {
+        "name": "übersetzen",
+        "type": "Verb",
+        "id": 225
+    },
+    {
+        "name": "überzeugen",
+        "type": "Verb",
+        "id": 226
+    },
+    {
+        "name": "umarmen",
+        "type": "Verb",
+        "id": 227
+    },
+    {
+        "name": "umdrehen",
+        "type": "Verb",
+        "id": 228
+    },
+    {
+        "name": "verändern",
+        "type": "Verb",
+        "id": 229
+    },
+    {
+        "name": "verbieten",
+        "type": "Verb",
+        "id": 230
+    },
+    {
+        "name": "verbinden",
+        "type": "Verb",
+        "id": 231
+    },
+    {
+        "name": "verbrennen",
+        "type": "Verb",
+        "id": 232
+    },
+    {
+        "name": "verdächtigen",
+        "type": "Verb",
+        "id": 233
+    },
+    {
+        "name": "wetten",
+        "type": "Verb",
+        "id": 234
+    },
+    {
+        "name": "wiegen",
+        "type": "Verb",
+        "id": 235
+    },
+    {
+        "name": "gewinnen",
+        "type": "Verb",
+        "id": 236
+    },
+    {
+        "name": "winken",
+        "type": "Verb",
+        "id": 237
+    },
+    {
+        "name": "winseln",
+        "type": "Verb",
+        "id": 238
+    },
+    {
+        "name": "xeroxieren",
+        "type": "Verb",
+        "id": 239
+    },
+    {
+        "name": "yogieren",
+        "type": "Verb",
+        "id": 240
+    },
+    {
+        "name": "zähmen",
+        "type": "Verb",
+        "id": 241
+    },
+    {
+        "name": "zählen",
+        "type": "Verb",
+        "id": 242
+    },
+    {
+        "name": "zanken",
+        "type": "Verb",
+        "id": 243
+    },
+    {
+        "name": "zaubern",
+        "type": "Verb",
+        "id": 244
+    },
+    {
+        "name": "zeichnen",
+        "type": "Verb",
+        "id": 245
+    },
+    {
+        "name": "Abenteuer",
+        "type": "Hauptwort",
+        "id": 247
+    },
+    {
+        "name": "Abend",
+        "type": "Hauptwort",
+        "id": 248
+    },
+    {
+        "name": "Abschied",
+        "type": "Hauptwort",
+        "id": 249
+    },
+    {
+        "name": "Ablage",
+        "type": "Hauptwort",
+        "id": 250
+    },
+    {
+        "name": "Absicht",
+        "type": "Hauptwort",
+        "id": 251
+    },
+    {
+        "name": "Acht",
+        "type": "Hauptwort",
+        "id": 252
+    },
+    {
+        "name": "Affe",
+        "type": "Hauptwort",
+        "id": 253
+    },
+    {
+        "name": "Aktion",
+        "type": "Hauptwort",
+        "id": 254
+    },
+    {
+        "name": "Alarm",
+        "type": "Hauptwort",
+        "id": 255
+    },
+    {
+        "name": "Alkohol",
+        "type": "Hauptwort",
+        "id": 256
+    },
+    {
+        "name": "Alter",
+        "type": "Hauptwort",
+        "id": 257
+    },
+    {
+        "name": "Amsel",
+        "type": "Hauptwort",
+        "id": 258
+    },
+    {
+        "name": "Anfang",
+        "type": "Hauptwort",
+        "id": 259
+    },
+    {
+        "name": "Angst",
+        "type": "Hauptwort",
+        "id": 260
+    },
+    {
+        "name": "Anlage",
+        "type": "Hauptwort",
+        "id": 261
+    },
+    {
+        "name": "Anruf",
+        "type": "Hauptwort",
+        "id": 262
+    },
+    {
+        "name": "Antwort",
+        "type": "Hauptwort",
+        "id": 263
+    },
+    {
+        "name": "Apfel",
+        "type": "Hauptwort",
+        "id": 264
+    },
+    {
+        "name": "Arbeit",
+        "type": "Hauptwort",
+        "id": 265
+    },
+    {
+        "name": "Arm",
+        "type": "Hauptwort",
+        "id": 266
+    },
+    {
+        "name": "Art",
+        "type": "Hauptwort",
+        "id": 267
+    },
+    {
+        "name": "Arzt",
+        "type": "Hauptwort",
+        "id": 268
+    },
+    {
+        "name": "Asch",
+        "type": "Hauptwort",
+        "id": 269
+    },
+    {
+        "name": "Atem",
+        "type": "Hauptwort",
+        "id": 270
+    },
+    {
+        "name": "Auge",
+        "type": "Hauptwort",
+        "id": 271
+    },
+    {
+        "name": "Auto",
+        "type": "Hauptwort",
+        "id": 272
+    },
+    {
+        "name": "Baby",
+        "type": "Hauptwort",
+        "id": 273
+    },
+    {
+        "name": "Bach",
+        "type": "Hauptwort",
+        "id": 274
+    },
+    {
+        "name": "Backofen",
+        "type": "Hauptwort",
+        "id": 275
+    },
+    {
+        "name": "Bahnhof",
+        "type": "Hauptwort",
+        "id": 276
+    },
+    {
+        "name": "Bahn",
+        "type": "Hauptwort",
+        "id": 277
+    },
+    {
+        "name": "Ball",
+        "type": "Hauptwort",
+        "id": 278
+    },
+    {
+        "name": "Ballon",
+        "type": "Hauptwort",
+        "id": 279
+    },
+    {
+        "name": "Band",
+        "type": "Hauptwort",
+        "id": 280
+    },
+    {
+        "name": "Bank",
+        "type": "Hauptwort",
+        "id": 281
+    },
+    {
+        "name": "Baum",
+        "type": "Hauptwort",
+        "id": 282
+    },
+    {
+        "name": "Bauwagen",
+        "type": "Hauptwort",
+        "id": 283
+    },
+    {
+        "name": "Becher",
+        "type": "Hauptwort",
+        "id": 284
+    },
+    {
+        "name": "Becken",
+        "type": "Hauptwort",
+        "id": 285
+    },
+    {
+        "name": "Bett",
+        "type": "Hauptwort",
+        "id": 286
+    },
+    {
+        "name": "Beute",
+        "type": "Hauptwort",
+        "id": 287
+    },
+    {
+        "name": "Bewegung",
+        "type": "Hauptwort",
+        "id": 288
+    },
+    {
+        "name": "Bier",
+        "type": "Hauptwort",
+        "id": 289
+    },
+    {
+        "name": "Bild",
+        "type": "Hauptwort",
+        "id": 290
+    },
+    {
+        "name": "Blume",
+        "type": "Hauptwort",
+        "id": 291
+    },
+    {
+        "name": "Blatt",
+        "type": "Hauptwort",
+        "id": 292
+    },
+    {
+        "name": "Blitz",
+        "type": "Hauptwort",
+        "id": 293
+    },
+    {
+        "name": "Blut",
+        "type": "Hauptwort",
+        "id": 294
+    },
+    {
+        "name": "Blume",
+        "type": "Hauptwort",
+        "id": 295
+    },
+    {
+        "name": "Boden",
+        "type": "Hauptwort",
+        "id": 296
+    },
+    {
+        "name": "Bogen",
+        "type": "Hauptwort",
+        "id": 297
+    },
+    {
+        "name": "Bohrer",
+        "type": "Hauptwort",
+        "id": 298
+    },
+    {
+        "name": "Boot",
+        "type": "Hauptwort",
+        "id": 299
+    },
+    {
+        "name": "Bord",
+        "type": "Hauptwort",
+        "id": 300
+    },
+    {
+        "name": "Chaos",
+        "type": "Hauptwort",
+        "id": 301
+    },
+    {
+        "name": "Charakter",
+        "type": "Hauptwort",
+        "id": 302
+    },
+    {
+        "name": "Chef",
+        "type": "Hauptwort",
+        "id": 303
+    },
+    {
+        "name": "Chemie",
+        "type": "Hauptwort",
+        "id": 304
+    },
+    {
+        "name": "Computer",
+        "type": "Hauptwort",
+        "id": 305
+    },
+    {
+        "name": "Dach",
+        "type": "Hauptwort",
+        "id": 306
+    },
+    {
+        "name": "Damm",
+        "type": "Hauptwort",
+        "id": 307
+    },
+    {
+        "name": "Dampf",
+        "type": "Hauptwort",
+        "id": 308
+    },
+    {
+        "name": "Darm",
+        "type": "Hauptwort",
+        "id": 309
+    },
+    {
+        "name": "Dattel",
+        "type": "Hauptwort",
+        "id": 310
+    },
+    {
+        "name": "Decke",
+        "type": "Hauptwort",
+        "id": 311
+    },
+    {
+        "name": "Deich",
+        "type": "Hauptwort",
+        "id": 312
+    },
+    {
+        "name": "Demut",
+        "type": "Hauptwort",
+        "id": 313
+    },
+    {
+        "name": "Diamant",
+        "type": "Hauptwort",
+        "id": 314
+    },
+    {
+        "name": "Dickicht",
+        "type": "Hauptwort",
+        "id": 315
+    },
+    {
+        "name": "Dieb",
+        "type": "Hauptwort",
+        "id": 316
+    },
+    {
+        "name": "Dienst",
+        "type": "Hauptwort",
+        "id": 317
+    },
+    {
+        "name": "Ding",
+        "type": "Hauptwort",
+        "id": 318
+    },
+    {
+        "name": "Dompteur",
+        "type": "Hauptwort",
+        "id": 319
+    },
+    {
+        "name": "Donner",
+        "type": "Hauptwort",
+        "id": 320
+    },
+    {
+        "name": "Dorf",
+        "type": "Hauptwort",
+        "id": 321
+    },
+    {
+        "name": "Dorn",
+        "type": "Hauptwort",
+        "id": 322
+    },
+    {
+        "name": "Draht",
+        "type": "Hauptwort",
+        "id": 323
+    },
+    {
+        "name": "Drang",
+        "type": "Hauptwort",
+        "id": 324
+    },
+    {
+        "name": "Dröhnen",
+        "type": "Hauptwort",
+        "id": 325
+    },
+    {
+        "name": "Drohung",
+        "type": "Hauptwort",
+        "id": 326
+    },
+    {
+        "name": "Druck",
+        "type": "Hauptwort",
+        "id": 327
+    },
+    {
+        "name": "Duft",
+        "type": "Hauptwort",
+        "id": 328
+    },
+    {
+        "name": "Dummheit",
+        "type": "Hauptwort",
+        "id": 329
+    },
+    {
+        "name": "Dunkelheit",
+        "type": "Hauptwort",
+        "id": 330
+    },
+    {
+        "name": "Durst",
+        "type": "Hauptwort",
+        "id": 331
+    },
+    {
+        "name": "Dynamo",
+        "type": "Hauptwort",
+        "id": 332
+    },
+    {
+        "name": "Ebbe",
+        "type": "Hauptwort",
+        "id": 333
+    },
+    {
+        "name": "Echo",
+        "type": "Hauptwort",
+        "id": 334
+    },
+    {
+        "name": "Edelstein",
+        "type": "Hauptwort",
+        "id": 335
+    },
+    {
+        "name": "Ehe",
+        "type": "Hauptwort",
+        "id": 336
+    },
+    {
+        "name": "Ei",
+        "type": "Hauptwort",
+        "id": 337
+    },
+    {
+        "name": "Eifer",
+        "type": "Hauptwort",
+        "id": 338
+    },
+    {
+        "name": "Eile",
+        "type": "Hauptwort",
+        "id": 339
+    },
+    {
+        "name": "Eimer",
+        "type": "Hauptwort",
+        "id": 340
+    },
+    {
+        "name": "Eindruck",
+        "type": "Hauptwort",
+        "id": 341
+    },
+    {
+        "name": "Einfluss",
+        "type": "Hauptwort",
+        "id": 342
+    },
+    {
+        "name": "Einwohner",
+        "type": "Hauptwort",
+        "id": 343
+    },
+    {
+        "name": "Einzelheit",
+        "type": "Hauptwort",
+        "id": 344
+    },
+    {
+        "name": "Eisen",
+        "type": "Hauptwort",
+        "id": 345
+    },
+    {
+        "name": "Ekel",
+        "type": "Hauptwort",
+        "id": 346
+    },
+    {
+        "name": "Eltern",
+        "type": "Hauptwort",
+        "id": 347
+    },
+    {
+        "name": "Empfindung",
+        "type": "Hauptwort",
+        "id": 348
+    },
+    {
+        "name": "Ende",
+        "type": "Hauptwort",
+        "id": 349
+    },
+    {
+        "name": "Energie",
+        "type": "Hauptwort",
+        "id": 350
+    },
+    {
+        "name": "Engel",
+        "type": "Hauptwort",
+        "id": 351
+    },
+    {
+        "name": "Enkel",
+        "type": "Hauptwort",
+        "id": 352
+    },
+    {
+        "name": "Enttäuschung",
+        "type": "Hauptwort",
+        "id": 353
+    },
+    {
+        "name": "Entfernung",
+        "type": "Hauptwort",
+        "id": 354
+    },
+    {
+        "name": "Entschluss",
+        "type": "Hauptwort",
+        "id": 355
+    },
+    {
+        "name": "Erfindung",
+        "type": "Hauptwort",
+        "id": 356
+    },
+    {
+        "name": "Erfolg",
+        "type": "Hauptwort",
+        "id": 357
+    },
+    {
+        "name": "Erfahrung",
+        "type": "Hauptwort",
+        "id": 358
+    },
+    {
+        "name": "Erfinder",
+        "type": "Hauptwort",
+        "id": 359
+    },
+    {
+        "name": "Ergebnis",
+        "type": "Hauptwort",
+        "id": 360
+    },
+    {
+        "name": "Erinnerung",
+        "type": "Hauptwort",
+        "id": 361
+    },
+    {
+        "name": "Erkenntnis",
+        "type": "Hauptwort",
+        "id": 362
+    },
+    {
+        "name": "Erlaubnis",
+        "type": "Hauptwort",
+        "id": 363
+    },
+    {
+        "name": "Ernst",
+        "type": "Hauptwort",
+        "id": 364
+    },
+    {
+        "name": "Erscheinung",
+        "type": "Hauptwort",
+        "id": 365
+    },
+    {
+        "name": "Erstaunen",
+        "type": "Hauptwort",
+        "id": 366
+    },
+    {
+        "name": "Ertrag",
+        "type": "Hauptwort",
+        "id": 367
+    },
+    {
+        "name": "Erfolg",
+        "type": "Hauptwort",
+        "id": 368
+    },
+    {
+        "name": "Erwägung",
+        "type": "Hauptwort",
+        "id": 369
+    },
+    {
+        "name": "Erwachen",
+        "type": "Hauptwort",
+        "id": 370
+    },
+    {
+        "name": "Erzählung",
+        "type": "Hauptwort",
+        "id": 371
+    },
+    {
+        "name": "Erziehung",
+        "type": "Hauptwort",
+        "id": 372
+    },
+    {
+        "name": "Essig",
+        "type": "Hauptwort",
+        "id": 373
+    },
+    {
+        "name": "Eule",
+        "type": "Hauptwort",
+        "id": 374
+    },
+    {
+        "name": "Fabrik",
+        "type": "Hauptwort",
+        "id": 375
+    },
+    {
+        "name": "Fach",
+        "type": "Hauptwort",
+        "id": 376
+    },
+    {
+        "name": "Fahrrad",
+        "type": "Hauptwort",
+        "id": 377
+    },
+    {
+        "name": "Familie",
+        "type": "Hauptwort",
+        "id": 378
+    },
+    {
+        "name": "Farbe",
+        "type": "Hauptwort",
+        "id": 379
+    },
+    {
+        "name": "Fass",
+        "type": "Hauptwort",
+        "id": 380
+    },
+    {
+        "name": "Feder",
+        "type": "Hauptwort",
+        "id": 381
+    },
+    {
+        "name": "Fehler",
+        "type": "Hauptwort",
+        "id": 382
+    },
+    {
+        "name": "Feld",
+        "type": "Hauptwort",
+        "id": 383
+    },
+    {
+        "name": "Felsen",
+        "type": "Hauptwort",
+        "id": 384
+    },
+    {
+        "name": "Fenster",
+        "type": "Hauptwort",
+        "id": 385
+    },
+    {
+        "name": "Feri",
+        "type": "Hauptwort",
+        "id": 386
+    },
+    {
+        "name": "Fest",
+        "type": "Hauptwort",
+        "id": 387
+    },
+    {
+        "name": "Fett",
+        "type": "Hauptwort",
+        "id": 388
+    },
+    {
+        "name": "Feuer",
+        "type": "Hauptwort",
+        "id": 389
+    },
+    {
+        "name": "Fieber",
+        "type": "Hauptwort",
+        "id": 390
+    },
+    {
+        "name": "Figur",
+        "type": "Hauptwort",
+        "id": 391
+    },
+    {
+        "name": "Film",
+        "type": "Hauptwort",
+        "id": 392
+    },
+    {
+        "name": "Finger",
+        "type": "Hauptwort",
+        "id": 393
+    },
+    {
+        "name": "Finsternis",
+        "type": "Hauptwort",
+        "id": 394
+    },
+    {
+        "name": "Fisch",
+        "type": "Hauptwort",
+        "id": 395
+    },
+    {
+        "name": "Fläche",
+        "type": "Hauptwort",
+        "id": 396
+    },
+    {
+        "name": "Flasche",
+        "type": "Hauptwort",
+        "id": 397
+    },
+    {
+        "name": "Fleisch",
+        "type": "Hauptwort",
+        "id": 398
+    },
+    {
+        "name": "Fliege",
+        "type": "Hauptwort",
+        "id": 399
+    },
+    {
+        "name": "Flucht",
+        "type": "Hauptwort",
+        "id": 400
+    },
+    {
+        "name": "Flügel",
+        "type": "Hauptwort",
+        "id": 401
+    },
+    {
+        "name": "Fluss",
+        "type": "Hauptwort",
+        "id": 402
+    },
+    {
+        "name": "Flur",
+        "type": "Hauptwort",
+        "id": 403
+    },
+    {
+        "name": "Fohlen",
+        "type": "Hauptwort",
+        "id": 404
+    },
+    {
+        "name": "Forderung",
+        "type": "Hauptwort",
+        "id": 405
+    },
+    {
+        "name": "Form",
+        "type": "Hauptwort",
+        "id": 406
+    },
+    {
+        "name": "Forschung",
+        "type": "Hauptwort",
+        "id": 407
+    },
+    {
+        "name": "Fortsetzung",
+        "type": "Hauptwort",
+        "id": 408
+    },
+    {
+        "name": "Frage",
+        "type": "Hauptwort",
+        "id": 409
+    },
+    {
+        "name": "Freude",
+        "type": "Hauptwort",
+        "id": 410
+    },
+    {
+        "name": "Freund",
+        "type": "Hauptwort",
+        "id": 411
+    },
+    {
+        "name": "Frieden",
+        "type": "Hauptwort",
+        "id": 412
+    },
+    {
+        "name": "Friedhof",
+        "type": "Hauptwort",
+        "id": 413
+    },
+    {
+        "name": "Frischluft",
+        "type": "Hauptwort",
+        "id": 414
+    },
+    {
+        "name": "Frist",
+        "type": "Hauptwort",
+        "id": 415
+    },
+    {
+        "name": "Frohsinn",
+        "type": "Hauptwort",
+        "id": 416
+    },
+    {
+        "name": "Frucht",
+        "type": "Hauptwort",
+        "id": 417
+    },
+    {
+        "name": "Frühling",
+        "type": "Hauptwort",
+        "id": 418
+    },
+    {
+        "name": "Fuchs",
+        "type": "Hauptwort",
+        "id": 419
+    },
+    {
+        "name": "Führer",
+        "type": "Hauptwort",
+        "id": 420
+    },
+    {
+        "name": "Führung",
+        "type": "Hauptwort",
+        "id": 421
+    },
+    {
+        "name": "Füllung",
+        "type": "Hauptwort",
+        "id": 422
+    },
+    {
+        "name": "Furcht",
+        "type": "Hauptwort",
+        "id": 423
+    },
+    {
+        "name": "Fuß",
+        "type": "Hauptwort",
+        "id": 424
+    },
+    {
+        "name": "Futter",
+        "type": "Hauptwort",
+        "id": 425
+    },
+    {
+        "name": "Gabe",
+        "type": "Hauptwort",
+        "id": 426
+    },
+    {
+        "name": "Gang",
+        "type": "Hauptwort",
+        "id": 427
+    },
+    {
+        "name": "Garten",
+        "type": "Hauptwort",
+        "id": 428
+    },
+    {
+        "name": "Gas",
+        "type": "Hauptwort",
+        "id": 429
+    },
+    {
+        "name": "Gast",
+        "type": "Hauptwort",
+        "id": 430
+    },
+    {
+        "name": "Gebäude",
+        "type": "Hauptwort",
+        "id": 431
+    },
+    {
+        "name": "Gedächtnis",
+        "type": "Hauptwort",
+        "id": 432
+    },
+    {
+        "name": "Gefahr",
+        "type": "Hauptwort",
+        "id": 433
+    },
+    {
+        "name": "Gefühl",
+        "type": "Hauptwort",
+        "id": 434
+    },
+    {
+        "name": "Gegner",
+        "type": "Hauptwort",
+        "id": 435
+    },
+    {
+        "name": "Gehalt",
+        "type": "Hauptwort",
+        "id": 436
+    },
+    {
+        "name": "Gehege",
+        "type": "Hauptwort",
+        "id": 437
+    },
+    {
+        "name": "Gehirn",
+        "type": "Hauptwort",
+        "id": 438
+    },
+    {
+        "name": "Gehorsam",
+        "type": "Hauptwort",
+        "id": 439
+    },
+    {
+        "name": "Geist",
+        "type": "Hauptwort",
+        "id": 440
+    },
+    {
+        "name": "Geld",
+        "type": "Hauptwort",
+        "id": 441
+    },
+    {
+        "name": "Gelegenheit",
+        "type": "Hauptwort",
+        "id": 442
+    },
+    {
+        "name": "Gemeinde",
+        "type": "Hauptwort",
+        "id": 443
+    },
+    {
+        "name": "Gemüt",
+        "type": "Hauptwort",
+        "id": 444
+    },
+    {
+        "name": "Genießen",
+        "type": "Hauptwort",
+        "id": 445
+    },
+    {
+        "name": "Geschenk",
+        "type": "Hauptwort",
+        "id": 446
+    },
+    {
+        "name": "Gepäck",
+        "type": "Hauptwort",
+        "id": 447
+    },
+    {
+        "name": "Gericht",
+        "type": "Hauptwort",
+        "id": 448
+    },
+    {
+        "name": "Geruch",
+        "type": "Hauptwort",
+        "id": 449
+    },
+    {
+        "name": "Geschmack",
+        "type": "Hauptwort",
+        "id": 450
+    },
+    {
+        "name": "Geschwindigkeit",
+        "type": "Hauptwort",
+        "id": 451
+    },
+    {
+        "name": "Gesetz",
+        "type": "Hauptwort",
+        "id": 452
+    },
+    {
+        "name": "Gesicht",
+        "type": "Hauptwort",
+        "id": 453
+    },
+    {
+        "name": "Gestein",
+        "type": "Hauptwort",
+        "id": 454
+    },
+    {
+        "name": "Gestirn",
+        "type": "Hauptwort",
+        "id": 455
+    },
+    {
+        "name": "Gewächs",
+        "type": "Hauptwort",
+        "id": 456
+    },
+    {
+        "name": "Gewebe",
+        "type": "Hauptwort",
+        "id": 457
+    },
+    {
+        "name": "Gewicht",
+        "type": "Hauptwort",
+        "id": 458
+    },
+    {
+        "name": "Gewissen",
+        "type": "Hauptwort",
+        "id": 459
+    },
+    {
+        "name": "Gewitter",
+        "type": "Hauptwort",
+        "id": 460
+    },
+    {
+        "name": "Gewinn",
+        "type": "Hauptwort",
+        "id": 461
+    },
+    {
+        "name": "Gewohnheit",
+        "type": "Hauptwort",
+        "id": 462
+    },
+    {
+        "name": "Gier",
+        "type": "Hauptwort",
+        "id": 463
+    },
+    {
+        "name": "Gipfel",
+        "type": "Hauptwort",
+        "id": 464
+    },
+    {
+        "name": "Glas",
+        "type": "Hauptwort",
+        "id": 465
+    },
+    {
+        "name": "Glaube",
+        "type": "Hauptwort",
+        "id": 466
+    },
+    {
+        "name": "Gleichgewicht",
+        "type": "Hauptwort",
+        "id": 467
+    },
+    {
+        "name": "Glied",
+        "type": "Hauptwort",
+        "id": 468
+    },
+    {
+        "name": "Glück",
+        "type": "Hauptwort",
+        "id": 469
+    },
+    {
+        "name": "Glut",
+        "type": "Hauptwort",
+        "id": 470
+    },
+    {
+        "name": "Gold",
+        "type": "Hauptwort",
+        "id": 471
+    },
+    {
+        "name": "Golf",
+        "type": "Hauptwort",
+        "id": 472
+    },
+    {
+        "name": "Gondel",
+        "type": "Hauptwort",
+        "id": 473
+    },
+    {
+        "name": "Gott",
+        "type": "Hauptwort",
+        "id": 474
+    },
+    {
+        "name": "Grab",
+        "type": "Hauptwort",
+        "id": 475
+    },
+    {
+        "name": "Grad",
+        "type": "Hauptwort",
+        "id": 476
+    },
+    {
+        "name": "Grammatik",
+        "type": "Hauptwort",
+        "id": 477
+    },
+    {
+        "name": "Gras",
+        "type": "Hauptwort",
+        "id": 478
+    },
+    {
+        "name": "Grat",
+        "type": "Hauptwort",
+        "id": 479
+    },
+    {
+        "name": "Grenze",
+        "type": "Hauptwort",
+        "id": 480
+    },
+    {
+        "name": "Griff",
+        "type": "Hauptwort",
+        "id": 481
+    },
+    {
+        "name": "Grillen",
+        "type": "Hauptwort",
+        "id": 482
+    },
+    {
+        "name": "Größe",
+        "type": "Hauptwort",
+        "id": 483
+    },
+    {
+        "name": "Grund",
+        "type": "Hauptwort",
+        "id": 484
+    },
+    {
+        "name": "Gruß",
+        "type": "Hauptwort",
+        "id": 485
+    },
+    {
+        "name": "Gummi",
+        "type": "Hauptwort",
+        "id": 486
+    },
+    {
+        "name": "Gurke",
+        "type": "Hauptwort",
+        "id": 487
+    },
+    {
+        "name": "Gut",
+        "type": "Hauptwort",
+        "id": 488
+    },
+    {
+        "name": "Haare",
+        "type": "Hauptwort",
+        "id": 489
+    },
+    {
+        "name": "Hafen",
+        "type": "Hauptwort",
+        "id": 490
+    },
+    {
+        "name": "Hagel",
+        "type": "Hauptwort",
+        "id": 491
+    },
+    {
+        "name": "Hahn",
+        "type": "Hauptwort",
+        "id": 492
+    },
+    {
+        "name": "Halm",
+        "type": "Hauptwort",
+        "id": 493
+    },
+    {
+        "name": "Hals",
+        "type": "Hauptwort",
+        "id": 494
+    },
+    {
+        "name": "Halten",
+        "type": "Hauptwort",
+        "id": 495
+    },
+    {
+        "name": "Hammer",
+        "type": "Hauptwort",
+        "id": 496
+    },
+    {
+        "name": "Hand",
+        "type": "Hauptwort",
+        "id": 497
+    },
+    {
+        "name": "Handel",
+        "type": "Hauptwort",
+        "id": 498
+    },
+    {
+        "name": "Handwerk",
+        "type": "Hauptwort",
+        "id": 499
+    },
+    {
+        "name": "Handschuh",
+        "type": "Hauptwort",
+        "id": 500
+    },
+    {
+        "name": "Hang",
+        "type": "Hauptwort",
+        "id": 501
+    },
+    {
+        "name": "Harfe",
+        "type": "Hauptwort",
+        "id": 502
+    },
+    {
+        "name": "Harmonie",
+        "type": "Hauptwort",
+        "id": 503
+    },
+    {
+        "name": "Harn",
+        "type": "Hauptwort",
+        "id": 504
+    },
+    {
+        "name": "Harren",
+        "type": "Hauptwort",
+        "id": 505
+    },
+    {
+        "name": "Hart",
+        "type": "Hauptwort",
+        "id": 506
+    },
+    {
+        "name": "Hase",
+        "type": "Hauptwort",
+        "id": 507
+    },
+    {
+        "name": "Hass",
+        "type": "Hauptwort",
+        "id": 508
+    },
+    {
+        "name": "Hauch",
+        "type": "Hauptwort",
+        "id": 509
+    },
+    {
+        "name": "Haufen",
+        "type": "Hauptwort",
+        "id": 510
+    },
+    {
+        "name": "Haus",
+        "type": "Hauptwort",
+        "id": 511
+    },
+    {
+        "name": "Haut",
+        "type": "Hauptwort",
+        "id": 512
+    },
+    {
+        "name": "Hecht",
+        "type": "Hauptwort",
+        "id": 513
+    },
+    {
+        "name": "Heer",
+        "type": "Hauptwort",
+        "id": 514
+    },
+    {
+        "name": "Hefen",
+        "type": "Hauptwort",
+        "id": 515
+    },
+    {
+        "name": "Heide",
+        "type": "Hauptwort",
+        "id": 516
+    },
+    {
+        "name": "Heimat",
+        "type": "Hauptwort",
+        "id": 517
+    },
+    {
+        "name": "Heimlichkeit",
+        "type": "Hauptwort",
+        "id": 518
+    },
+    {
+        "name": "Heinrich",
+        "type": "Hauptwort",
+        "id": 519
+    },
+    {
+        "name": "Held",
+        "type": "Hauptwort",
+        "id": 520
+    },
+    {
+        "name": "Hemd",
+        "type": "Hauptwort",
+        "id": 521
+    },
+    {
+        "name": "Henne",
+        "type": "Hauptwort",
+        "id": 522
+    },
+    {
+        "name": "Herd",
+        "type": "Hauptwort",
+        "id": 523
+    },
+    {
+        "name": "Herr",
+        "type": "Hauptwort",
+        "id": 524
+    },
+    {
+        "name": "Herrschaft",
+        "type": "Hauptwort",
+        "id": 525
+    },
+    {
+        "name": "Herz",
+        "type": "Hauptwort",
+        "id": 526
+    },
+    {
+        "name": "Heu",
+        "type": "Hauptwort",
+        "id": 527
+    },
+    {
+        "name": "Heuschrecke",
+        "type": "Hauptwort",
+        "id": 528
+    },
+    {
+        "name": "Hieb",
+        "type": "Hauptwort",
+        "id": 529
+    },
+    {
+        "name": "Himmel",
+        "type": "Hauptwort",
+        "id": 530
+    },
+    {
+        "name": "Hingabe",
+        "type": "Hauptwort",
+        "id": 531
+    },
+    {
+        "name": "Hindernis",
+        "type": "Hauptwort",
+        "id": 532
+    },
+    {
+        "name": "Hinsicht",
+        "type": "Hauptwort",
+        "id": 533
+    },
+    {
+        "name": "Hitze",
+        "type": "Hauptwort",
+        "id": 534
+    },
+    {
+        "name": "Hobel",
+        "type": "Hauptwort",
+        "id": 535
+    },
+    {
+        "name": "Hochmut",
+        "type": "Hauptwort",
+        "id": 536
+    },
+    {
+        "name": "Hochzeit",
+        "type": "Hauptwort",
+        "id": 537
+    },
+    {
+        "name": "Hof",
+        "type": "Hauptwort",
+        "id": 538
+    },
+    {
+        "name": "Hoffnung",
+        "type": "Hauptwort",
+        "id": 539
+    },
+    {
+        "name": "Höhe",
+        "type": "Hauptwort",
+        "id": 540
+    },
+    {
+        "name": "Hohn",
+        "type": "Hauptwort",
+        "id": 541
+    },
+    {
+        "name": "Holz",
+        "type": "Hauptwort",
+        "id": 542
+    },
+    {
+        "name": "Honig",
+        "type": "Hauptwort",
+        "id": 543
+    },
+    {
+        "name": "Horn",
+        "type": "Hauptwort",
+        "id": 544
+    },
+    {
+        "name": "Hose",
+        "type": "Hauptwort",
+        "id": 545
+    },
+    {
+        "name": "Hotel",
+        "type": "Hauptwort",
+        "id": 546
+    },
+    {
+        "name": "Hubschrauber",
+        "type": "Hauptwort",
+        "id": 547
+    },
+    {
+        "name": "Huf",
+        "type": "Hauptwort",
+        "id": 548
+    },
+    {
+        "name": "Hügel",
+        "type": "Hauptwort",
+        "id": 549
+    },
+    {
+        "name": "Huhn",
+        "type": "Hauptwort",
+        "id": 550
+    },
+    {
+        "name": "Hund",
+        "type": "Hauptwort",
+        "id": 551
+    },
+    {
+        "name": "Hunger",
+        "type": "Hauptwort",
+        "id": 552
+    },
+    {
+        "name": "Hut",
+        "type": "Hauptwort",
+        "id": 553
+    },
+    {
+        "name": "Idee",
+        "type": "Hauptwort",
+        "id": 554
+    },
+    {
+        "name": "Idol",
+        "type": "Hauptwort",
+        "id": 555
+    },
+    {
+        "name": "Idylle",
+        "type": "Hauptwort",
+        "id": 556
+    },
+    {
+        "name": "Igel",
+        "type": "Hauptwort",
+        "id": 557
+    },
+    {
+        "name": "Ihr",
+        "type": "Hauptwort",
+        "id": 558
+    },
+    {
+        "name": "Impuls",
+        "type": "Hauptwort",
+        "id": 559
+    },
+    {
+        "name": "Inbrunst",
+        "type": "Hauptwort",
+        "id": 560
+    },
+    {
+        "name": "Industrie",
+        "type": "Hauptwort",
+        "id": 561
+    },
+    {
+        "name": "Ingenieur",
+        "type": "Hauptwort",
+        "id": 562
+    },
+    {
+        "name": "Inhalt",
+        "type": "Hauptwort",
+        "id": 563
+    },
+    {
+        "name": "Insel",
+        "type": "Hauptwort",
+        "id": 564
+    },
+    {
+        "name": "Inschrift",
+        "type": "Hauptwort",
+        "id": 565
+    },
+    {
+        "name": "Instinkt",
+        "type": "Hauptwort",
+        "id": 566
+    },
+    {
+        "name": "Instrument",
+        "type": "Hauptwort",
+        "id": 567
+    },
+    {
+        "name": "Interesse",
+        "type": "Hauptwort",
+        "id": 568
+    },
+    {
+        "name": "Irrtum",
+        "type": "Hauptwort",
+        "id": 569
+    },
+    {
+        "name": "Isolation",
+        "type": "Hauptwort",
+        "id": 570
+    },
+    {
+        "name": "Jacke",
+        "type": "Hauptwort",
+        "id": 571
+    },
+    {
+        "name": "Jagd",
+        "type": "Hauptwort",
+        "id": 572
+    },
+    {
+        "name": "Jahr",
+        "type": "Hauptwort",
+        "id": 573
+    },
+    {
+        "name": "Jammer",
+        "type": "Hauptwort",
+        "id": 574
+    },
+    {
+        "name": "Jasmin",
+        "type": "Hauptwort",
+        "id": 575
+    },
+    {
+        "name": "Jeans",
+        "type": "Hauptwort",
+        "id": 576
+    },
+    {
+        "name": "Idee",
+        "type": "Hauptwort",
+        "id": 577
+    },
+    {
+        "name": "Jugend",
+        "type": "Hauptwort",
+        "id": 578
+    },
+    {
+        "name": "Julfest",
+        "type": "Hauptwort",
+        "id": 579
+    },
+    {
+        "name": "Juni",
+        "type": "Hauptwort",
+        "id": 580
+    },
+    {
+        "name": "Kabel",
+        "type": "Hauptwort",
+        "id": 581
+    },
+    {
+        "name": "Kahn",
+        "type": "Hauptwort",
+        "id": 582
+    },
+    {
+        "name": "Kaiser",
+        "type": "Hauptwort",
+        "id": 583
+    },
+    {
+        "name": "Kalender",
+        "type": "Hauptwort",
+        "id": 584
+    },
+    {
+        "name": "Kalb",
+        "type": "Hauptwort",
+        "id": 585
+    },
+    {
+        "name": "Kampf",
+        "type": "Hauptwort",
+        "id": 586
+    },
+    {
+        "name": "Kaninchen",
+        "type": "Hauptwort",
+        "id": 587
+    },
+    {
+        "name": "Kanal",
+        "type": "Hauptwort",
+        "id": 588
+    },
+    {
+        "name": "Kanone",
+        "type": "Hauptwort",
+        "id": 589
+    },
+    {
+        "name": "Kante",
+        "type": "Hauptwort",
+        "id": 590
+    },
+    {
+        "name": "Kapital",
+        "type": "Hauptwort",
+        "id": 591
+    },
+    {
+        "name": "Kapitän",
+        "type": "Hauptwort",
+        "id": 592
+    },
+    {
+        "name": "Kapsel",
+        "type": "Hauptwort",
+        "id": 593
+    },
+    {
+        "name": "Karneval",
+        "type": "Hauptwort",
+        "id": 594
+    },
+    {
+        "name": "Karpfen",
+        "type": "Hauptwort",
+        "id": 595
+    },
+    {
+        "name": "Karre",
+        "type": "Hauptwort",
+        "id": 596
+    },
+    {
+        "name": "Kartoffel",
+        "type": "Hauptwort",
+        "id": 597
+    },
+    {
+        "name": "Käse",
+        "type": "Hauptwort",
+        "id": 598
+    },
+    {
+        "name": "Kassette",
+        "type": "Hauptwort",
+        "id": 599
+    },
+    {
+        "name": "Katalog",
+        "type": "Hauptwort",
+        "id": 600
+    },
+    {
+        "name": "Katarrh",
+        "type": "Hauptwort",
+        "id": 601
+    },
+    {
+        "name": "Katze",
+        "type": "Hauptwort",
+        "id": 602
+    },
+    {
+        "name": "Kaufmann",
+        "type": "Hauptwort",
+        "id": 603
+    },
+    {
+        "name": "Kaufhaus",
+        "type": "Hauptwort",
+        "id": 604
+    },
+    {
+        "name": "Keil",
+        "type": "Hauptwort",
+        "id": 605
+    },
+    {
+        "name": "Keller",
+        "type": "Hauptwort",
+        "id": 606
+    },
+    {
+        "name": "Kelch",
+        "type": "Hauptwort",
+        "id": 607
+    },
+    {
+        "name": "Kennzeichen",
+        "type": "Hauptwort",
+        "id": 608
+    },
+    {
+        "name": "Kerze",
+        "type": "Hauptwort",
+        "id": 609
+    },
+    {
+        "name": "Kette",
+        "type": "Hauptwort",
+        "id": 610
+    },
+    {
+        "name": "Keuchhusten",
+        "type": "Hauptwort",
+        "id": 611
+    },
+    {
+        "name": "Kiefer",
+        "type": "Hauptwort",
+        "id": 612
+    },
+    {
+        "name": "Kies",
+        "type": "Hauptwort",
+        "id": 613
+    },
+    {
+        "name": "Kind",
+        "type": "Hauptwort",
+        "id": 614
+    },
+    {
+        "name": "Kirche",
+        "type": "Hauptwort",
+        "id": 615
+    },
+    {
+        "name": "Kirsche",
+        "type": "Hauptwort",
+        "id": 616
+    },
+    {
+        "name": "Kissen",
+        "type": "Hauptwort",
+        "id": 617
+    },
+    {
+        "name": "Kiste",
+        "type": "Hauptwort",
+        "id": 618
+    },
+    {
+        "name": "Klage",
+        "type": "Hauptwort",
+        "id": 619
+    },
+    {
+        "name": "Klang",
+        "type": "Hauptwort",
+        "id": 620
+    },
+    {
+        "name": "Klappern",
+        "type": "Hauptwort",
+        "id": 621
+    },
+    {
+        "name": "Klasse",
+        "type": "Hauptwort",
+        "id": 622
+    },
+    {
+        "name": "Kleid",
+        "type": "Hauptwort",
+        "id": 623
+    },
+    {
+        "name": "Kleidung",
+        "type": "Hauptwort",
+        "id": 624
+    },
+    {
+        "name": "Kleie",
+        "type": "Hauptwort",
+        "id": 625
+    },
+    {
+        "name": "Klima",
+        "type": "Hauptwort",
+        "id": 626
+    },
+    {
+        "name": "Klingel",
+        "type": "Hauptwort",
+        "id": 627
+    },
+    {
+        "name": "Klippe",
+        "type": "Hauptwort",
+        "id": 628
+    },
+    {
+        "name": "Kloß",
+        "type": "Hauptwort",
+        "id": 629
+    },
+    {
+        "name": "Kloster",
+        "type": "Hauptwort",
+        "id": 630
+    },
+    {
+        "name": "Klub",
+        "type": "Hauptwort",
+        "id": 631
+    },
+    {
+        "name": "Knall",
+        "type": "Hauptwort",
+        "id": 632
+    },
+    {
+        "name": "Knopf",
+        "type": "Hauptwort",
+        "id": 633
+    },
+    {
+        "name": "Knochen",
+        "type": "Hauptwort",
+        "id": 634
+    },
+    {
+        "name": "Kohle",
+        "type": "Hauptwort",
+        "id": 635
+    },
+    {
+        "name": "Kolben",
+        "type": "Hauptwort",
+        "id": 636
+    },
+    {
+        "name": "Kolik",
+        "type": "Hauptwort",
+        "id": 637
+    },
+    {
+        "name": "Kommando",
+        "type": "Hauptwort",
+        "id": 638
+    },
+    {
+        "name": "Kompass",
+        "type": "Hauptwort",
+        "id": 639
+    },
+    {
+        "name": "Komponist",
+        "type": "Hauptwort",
+        "id": 640
+    },
+    {
+        "name": "Kondition",
+        "type": "Hauptwort",
+        "id": 641
+    },
+    {
+        "name": "Konferenz",
+        "type": "Hauptwort",
+        "id": 642
+    },
+    {
+        "name": "König",
+        "type": "Hauptwort",
+        "id": 643
+    },
+    {
+        "name": "Königin",
+        "type": "Hauptwort",
+        "id": 644
+    },
+    {
+        "name": "Konserve",
+        "type": "Hauptwort",
+        "id": 645
+    },
+    {
+        "name": "Kontinent",
+        "type": "Hauptwort",
+        "id": 646
+    },
+    {
+        "name": "Kontrolle",
+        "type": "Hauptwort",
+        "id": 647
+    },
+    {
+        "name": "Kopf",
+        "type": "Hauptwort",
+        "id": 648
+    },
+    {
+        "name": "Kopfschmerz",
+        "type": "Hauptwort",
+        "id": 649
+    },
+    {
+        "name": "Koralle",
+        "type": "Hauptwort",
+        "id": 650
+    },
+    {
+        "name": "Kork",
+        "type": "Hauptwort",
+        "id": 651
+    },
+    {
+        "name": "Körper",
+        "type": "Hauptwort",
+        "id": 652
+    },
+    {
+        "name": "Korridor",
+        "type": "Hauptwort",
+        "id": 653
+    },
+    {
+        "name": "Kosten",
+        "type": "Hauptwort",
+        "id": 654
+    },
+    {
+        "name": "Kot",
+        "type": "Hauptwort",
+        "id": 655
+    },
+    {
+        "name": "Kraft",
+        "type": "Hauptwort",
+        "id": 656
+    },
+    {
+        "name": "Kragen",
+        "type": "Hauptwort",
+        "id": 657
+    },
+    {
+        "name": "Kran",
+        "type": "Hauptwort",
+        "id": 658
+    },
+    {
+        "name": "Krankheit",
+        "type": "Hauptwort",
+        "id": 659
+    },
+    {
+        "name": "Kratzer",
+        "type": "Hauptwort",
+        "id": 660
+    },
+    {
+        "name": "Kraut",
+        "type": "Hauptwort",
+        "id": 661
+    },
+    {
+        "name": "Krebs",
+        "type": "Hauptwort",
+        "id": 662
+    },
+    {
+        "name": "Kreide",
+        "type": "Hauptwort",
+        "id": 663
+    },
+    {
+        "name": "Kreis",
+        "type": "Hauptwort",
+        "id": 664
+    },
+    {
+        "name": "Kreuz",
+        "type": "Hauptwort",
+        "id": 665
+    },
+    {
+        "name": "Krieg",
+        "type": "Hauptwort",
+        "id": 666
+    },
+    {
+        "name": "Kristall",
+        "type": "Hauptwort",
+        "id": 667
+    },
+    {
+        "name": "Kritik",
+        "type": "Hauptwort",
+        "id": 668
+    },
+    {
+        "name": "Krokodil",
+        "type": "Hauptwort",
+        "id": 669
+    },
+    {
+        "name": "Krone",
+        "type": "Hauptwort",
+        "id": 670
+    },
+    {
+        "name": "Krug",
+        "type": "Hauptwort",
+        "id": 671
+    },
+    {
+        "name": "Krümel",
+        "type": "Hauptwort",
+        "id": 672
+    },
+    {
+        "name": "Küche",
+        "type": "Hauptwort",
+        "id": 673
+    },
+    {
+        "name": "Kugel",
+        "type": "Hauptwort",
+        "id": 674
+    },
+    {
+        "name": "Kuh",
+        "type": "Hauptwort",
+        "id": 675
+    },
+    {
+        "name": "Kultur",
+        "type": "Hauptwort",
+        "id": 676
+    },
+    {
+        "name": "Kunst",
+        "type": "Hauptwort",
+        "id": 677
+    },
+    {
+        "name": "Kupfer",
+        "type": "Hauptwort",
+        "id": 678
+    },
+    {
+        "name": "Kuss",
+        "type": "Hauptwort",
+        "id": 679
+    },
+    {
+        "name": "Küste",
+        "type": "Hauptwort",
+        "id": 680
+    },
+    {
+        "name": "Kabel",
+        "type": "Hauptwort",
+        "id": 681
+    },
+    {
+        "name": "Lachen",
+        "type": "Hauptwort",
+        "id": 682
+    },
+    {
+        "name": "Lage",
+        "type": "Hauptwort",
+        "id": 683
+    },
+    {
+        "name": "Lamm",
+        "type": "Hauptwort",
+        "id": 684
+    },
+    {
+        "name": "Land",
+        "type": "Hauptwort",
+        "id": 685
+    },
+    {
+        "name": "Landung",
+        "type": "Hauptwort",
+        "id": 686
+    },
+    {
+        "name": "Landschaft",
+        "type": "Hauptwort",
+        "id": 687
+    },
+    {
+        "name": "Langeweile",
+        "type": "Hauptwort",
+        "id": 688
+    },
+    {
+        "name": "Lärm",
+        "type": "Hauptwort",
+        "id": 689
+    },
+    {
+        "name": "Laster",
+        "type": "Hauptwort",
+        "id": 690
+    },
+    {
+        "name": "Lastwagen",
+        "type": "Hauptwort",
+        "id": 691
+    },
+    {
+        "name": "Latte",
+        "type": "Hauptwort",
+        "id": 692
+    },
+    {
+        "name": "Leben",
+        "type": "Hauptwort",
+        "id": 693
+    },
+    {
+        "name": "Leber",
+        "type": "Hauptwort",
+        "id": 694
+    },
+    {
+        "name": "Leckerbissen",
+        "type": "Hauptwort",
+        "id": 695
+    },
+    {
+        "name": "Lehm",
+        "type": "Hauptwort",
+        "id": 696
+    },
+    {
+        "name": "Leiden",
+        "type": "Hauptwort",
+        "id": 697
+    },
+    {
+        "name": "Leidenschaft",
+        "type": "Hauptwort",
+        "id": 698
+    },
+    {
+        "name": "Leier",
+        "type": "Hauptwort",
+        "id": 699
+    },
+    {
+        "name": "Leinwand",
+        "type": "Hauptwort",
+        "id": 700
+    },
+    {
+        "name": "Leise",
+        "type": "Hauptwort",
+        "id": 701
+    },
+    {
+        "name": "Leistung",
+        "type": "Hauptwort",
+        "id": 702
+    },
+    {
+        "name": "Leiter",
+        "type": "Hauptwort",
+        "id": 703
+    },
+    {
+        "name": "Lenker",
+        "type": "Hauptwort",
+        "id": 704
+    },
+    {
+        "name": "Lerche",
+        "type": "Hauptwort",
+        "id": 705
+    },
+    {
+        "name": "Lernbegierde",
+        "type": "Hauptwort",
+        "id": 706
+    },
+    {
+        "name": "Lesebuch",
+        "type": "Hauptwort",
+        "id": 707
+    },
+    {
+        "name": "Letzte",
+        "type": "Hauptwort",
+        "id": 708
+    },
+    {
+        "name": "Licht",
+        "type": "Hauptwort",
+        "id": 709
+    },
+    {
+        "name": "Liebe",
+        "type": "Hauptwort",
+        "id": 710
+    },
+    {
+        "name": "Lied",
+        "type": "Hauptwort",
+        "id": 711
+    },
+    {
+        "name": "Lilie",
+        "type": "Hauptwort",
+        "id": 712
+    },
+    {
+        "name": "Limonade",
+        "type": "Hauptwort",
+        "id": 713
+    },
+    {
+        "name": "Linde",
+        "type": "Hauptwort",
+        "id": 714
+    },
+    {
+        "name": "Linie",
+        "type": "Hauptwort",
+        "id": 715
+    },
+    {
+        "name": "Lippe",
+        "type": "Hauptwort",
+        "id": 716
+    },
+    {
+        "name": "List",
+        "type": "Hauptwort",
+        "id": 717
+    },
+    {
+        "name": "Loch",
+        "type": "Hauptwort",
+        "id": 718
+    },
+    {
+        "name": "Locke",
+        "type": "Hauptwort",
+        "id": 719
+    },
+    {
+        "name": "Lokomotive",
+        "type": "Hauptwort",
+        "id": 720
+    },
+    {
+        "name": "Lohn",
+        "type": "Hauptwort",
+        "id": 721
+    },
+    {
+        "name": "Los",
+        "type": "Hauptwort",
+        "id": 722
+    },
+    {
+        "name": "Lösung",
+        "type": "Hauptwort",
+        "id": 723
+    },
+    {
+        "name": "Lotse",
+        "type": "Hauptwort",
+        "id": 724
+    },
+    {
+        "name": "Löwe",
+        "type": "Hauptwort",
+        "id": 725
+    },
+    {
+        "name": "Luft",
+        "type": "Hauptwort",
+        "id": 726
+    },
+    {
+        "name": "Lüge",
+        "type": "Hauptwort",
+        "id": 727
+    },
+    {
+        "name": "Lunge",
+        "type": "Hauptwort",
+        "id": 728
+    },
+    {
+        "name": "Lust",
+        "type": "Hauptwort",
+        "id": 729
+    },
+    {
+        "name": "Luxus",
+        "type": "Hauptwort",
+        "id": 730
+    },
+    {
+        "name": "Macht",
+        "type": "Hauptwort",
+        "id": 731
+    },
+    {
+        "name": "Mädchen",
+        "type": "Hauptwort",
+        "id": 732
+    },
+    {
+        "name": "Magazin",
+        "type": "Hauptwort",
+        "id": 733
+    },
+    {
+        "name": "Magnet",
+        "type": "Hauptwort",
+        "id": 734
+    },
+    {
+        "name": "Mahlzeit",
+        "type": "Hauptwort",
+        "id": 735
+    },
+    {
+        "name": "Mais",
+        "type": "Hauptwort",
+        "id": 736
+    },
+    {
+        "name": "Malerei",
+        "type": "Hauptwort",
+        "id": 737
+    },
+    {
+        "name": "Mangel",
+        "type": "Hauptwort",
+        "id": 738
+    },
+    {
+        "name": "Mann",
+        "type": "Hauptwort",
+        "id": 739
+    },
+    {
+        "name": "Mannschaft",
+        "type": "Hauptwort",
+        "id": 740
+    },
+    {
+        "name": "Manschette",
+        "type": "Hauptwort",
+        "id": 741
+    },
+    {
+        "name": "Marmelade",
+        "type": "Hauptwort",
+        "id": 742
+    },
+    {
+        "name": "Marrone",
+        "type": "Hauptwort",
+        "id": 743
+    },
+    {
+        "name": "Maschine",
+        "type": "Hauptwort",
+        "id": 744
+    },
+    {
+        "name": "Maske",
+        "type": "Hauptwort",
+        "id": 745
+    },
+    {
+        "name": "Maß",
+        "type": "Hauptwort",
+        "id": 746
+    },
+    {
+        "name": "Mast",
+        "type": "Hauptwort",
+        "id": 747
+    },
+    {
+        "name": "Material",
+        "type": "Hauptwort",
+        "id": 748
+    },
+    {
+        "name": "Mathematik",
+        "type": "Hauptwort",
+        "id": 749
+    },
+    {
+        "name": "Mauer",
+        "type": "Hauptwort",
+        "id": 750
+    },
+    {
+        "name": "Maus",
+        "type": "Hauptwort",
+        "id": 751
+    },
+    {
+        "name": "Mechaniker",
+        "type": "Hauptwort",
+        "id": 752
+    },
+    {
+        "name": "Medizin",
+        "type": "Hauptwort",
+        "id": 753
+    },
+    {
+        "name": "Meer",
+        "type": "Hauptwort",
+        "id": 754
+    },
+    {
+        "name": "Mehl",
+        "type": "Hauptwort",
+        "id": 755
+    },
+    {
+        "name": "Meinung",
+        "type": "Hauptwort",
+        "id": 756
+    },
+    {
+        "name": "Mensch",
+        "type": "Hauptwort",
+        "id": 757
+    },
+    {
+        "name": "Menge",
+        "type": "Hauptwort",
+        "id": 758
+    },
+    {
+        "name": "Messer",
+        "type": "Hauptwort",
+        "id": 759
+    },
+    {
+        "name": "Metall",
+        "type": "Hauptwort",
+        "id": 760
+    },
+    {
+        "name": "Methode",
+        "type": "Hauptwort",
+        "id": 761
+    },
+    {
+        "name": "Milch",
+        "type": "Hauptwort",
+        "id": 762
+    },
+    {
+        "name": "Million",
+        "type": "Hauptwort",
+        "id": 763
+    },
+    {
+        "name": "Miete",
+        "type": "Hauptwort",
+        "id": 764
+    },
+    {
+        "name": "Militär",
+        "type": "Hauptwort",
+        "id": 765
+    },
+    {
+        "name": "Milz",
+        "type": "Hauptwort",
+        "id": 766
+    },
+    {
+        "name": "Mine",
+        "type": "Hauptwort",
+        "id": 767
+    },
+    {
+        "name": "Minute",
+        "type": "Hauptwort",
+        "id": 768
+    },
+    {
+        "name": "Misserfolg",
+        "type": "Hauptwort",
+        "id": 769
+    },
+    {
+        "name": "Mist",
+        "type": "Hauptwort",
+        "id": 770
+    },
+    {
+        "name": "Mittag",
+        "type": "Hauptwort",
+        "id": 771
+    },
+    {
+        "name": "Mittel",
+        "type": "Hauptwort",
+        "id": 772
+    },
+    {
+        "name": "Möbel",
+        "type": "Hauptwort",
+        "id": 773
+    },
+    {
+        "name": "Mode",
+        "type": "Hauptwort",
+        "id": 774
+    },
+    {
+        "name": "Mohr",
+        "type": "Hauptwort",
+        "id": 775
+    },
+    {
+        "name": "Mond",
+        "type": "Hauptwort",
+        "id": 776
+    },
+    {
+        "name": "Montag",
+        "type": "Hauptwort",
+        "id": 777
+    },
+    {
+        "name": "Moor",
+        "type": "Hauptwort",
+        "id": 778
+    },
+    {
+        "name": "Moral",
+        "type": "Hauptwort",
+        "id": 779
+    },
+    {
+        "name": "Morgen",
+        "type": "Hauptwort",
+        "id": 780
+    },
+    {
+        "name": "Mücke",
+        "type": "Hauptwort",
+        "id": 781
+    },
+    {
+        "name": "Mühe",
+        "type": "Hauptwort",
+        "id": 782
+    },
+    {
+        "name": "Mühle",
+        "type": "Hauptwort",
+        "id": 783
+    },
+    {
+        "name": "Mund",
+        "type": "Hauptwort",
+        "id": 784
+    },
+    {
+        "name": "Munition",
+        "type": "Hauptwort",
+        "id": 785
+    },
+    {
+        "name": "Muskel",
+        "type": "Hauptwort",
+        "id": 786
+    },
+    {
+        "name": "Musik",
+        "type": "Hauptwort",
+        "id": 787
+    },
+    {
+        "name": "Mutter",
+        "type": "Hauptwort",
+        "id": 788
+    },
+    {
+        "name": "Mut",
+        "type": "Hauptwort",
+        "id": 789
+    },
+    {
+        "name": "Nadel",
+        "type": "Hauptwort",
+        "id": 790
+    },
+    {
+        "name": "Nagel",
+        "type": "Hauptwort",
+        "id": 791
+    },
+    {
+        "name": "Nahrung",
+        "type": "Hauptwort",
+        "id": 792
+    },
+    {
+        "name": "Narr",
+        "type": "Hauptwort",
+        "id": 793
+    },
+    {
+        "name": "Nase",
+        "type": "Hauptwort",
+        "id": 794
+    },
+    {
+        "name": "Natur",
+        "type": "Hauptwort",
+        "id": 795
+    },
+    {
+        "name": "Nebel",
+        "type": "Hauptwort",
+        "id": 796
+    },
+    {
+        "name": "Nebelhorn",
+        "type": "Hauptwort",
+        "id": 797
+    },
+    {
+        "name": "Notwendigkeit",
+        "type": "Hauptwort",
+        "id": 798
+    },
+    {
+        "name": "Negation",
+        "type": "Hauptwort",
+        "id": 799
+    },
+    {
+        "name": "Neid",
+        "type": "Hauptwort",
+        "id": 800
+    },
+    {
+        "name": "Neige",
+        "type": "Hauptwort",
+        "id": 801
+    },
+    {
+        "name": "Nenner",
+        "type": "Hauptwort",
+        "id": 802
+    },
+    {
+        "name": "Nerv",
+        "type": "Hauptwort",
+        "id": 803
+    },
+    {
+        "name": "Netz",
+        "type": "Hauptwort",
+        "id": 804
+    },
+    {
+        "name": "Niederschlag",
+        "type": "Hauptwort",
+        "id": 805
+    },
+    {
+        "name": "Niemandsland",
+        "type": "Hauptwort",
+        "id": 806
+    },
+    {
+        "name": "Notausgang",
+        "type": "Hauptwort",
+        "id": 807
+    },
+    {
+        "name": "Notenblatt",
+        "type": "Hauptwort",
+        "id": 808
+    },
+    {
+        "name": "Notiz",
+        "type": "Hauptwort",
+        "id": 809
+    },
+    {
+        "name": "Nudel",
+        "type": "Hauptwort",
+        "id": 810
+    },
+    {
+        "name": "Nummer",
+        "type": "Hauptwort",
+        "id": 811
+    },
+    {
+        "name": "Nuß",
+        "type": "Hauptwort",
+        "id": 812
+    },
+    {
+        "name": "Nymphe",
+        "type": "Hauptwort",
+        "id": 813
+    },
+    {
+        "name": "Obdach",
+        "type": "Hauptwort",
+        "id": 814
+    },
+    {
+        "name": "Obst",
+        "type": "Hauptwort",
+        "id": 815
+    },
+    {
+        "name": "Ofen",
+        "type": "Hauptwort",
+        "id": 816
+    },
+    {
+        "name": "Offizier",
+        "type": "Hauptwort",
+        "id": 817
+    },
+    {
+        "name": "Ohr",
+        "type": "Hauptwort",
+        "id": 818
+    },
+    {
+        "name": "Öl",
+        "type": "Hauptwort",
+        "id": 819
+    },
+    {
+        "name": "Ordnung",
+        "type": "Hauptwort",
+        "id": 820
+    },
+    {
+        "name": "Organisation",
+        "type": "Hauptwort",
+        "id": 821
+    },
+    {
+        "name": "Ort",
+        "type": "Hauptwort",
+        "id": 822
+    },
+    {
+        "name": "Ost",
+        "type": "Hauptwort",
+        "id": 823
+    },
+    {
+        "name": "Ostern",
+        "type": "Hauptwort",
+        "id": 824
+    },
+    {
+        "name": "Otter",
+        "type": "Hauptwort",
+        "id": 825
+    },
+    {
+        "name": "Paket",
+        "type": "Hauptwort",
+        "id": 826
+    },
+    {
+        "name": "Palme",
+        "type": "Hauptwort",
+        "id": 827
+    },
+    {
+        "name": "Papier",
+        "type": "Hauptwort",
+        "id": 828
+    },
+    {
+        "name": "Pantoffel",
+        "type": "Hauptwort",
+        "id": 829
+    },
+    {
+        "name": "Papst",
+        "type": "Hauptwort",
+        "id": 830
+    },
+    {
+        "name": "Paradies",
+        "type": "Hauptwort",
+        "id": 831
+    },
+    {
+        "name": "Park",
+        "type": "Hauptwort",
+        "id": 832
+    },
+    {
+        "name": "Parlament",
+        "type": "Hauptwort",
+        "id": 833
+    },
+    {
+        "name": "Parfüm",
+        "type": "Hauptwort",
+        "id": 834
+    },
+    {
+        "name": "Partei",
+        "type": "Hauptwort",
+        "id": 835
+    },
+    {
+        "name": "Partner",
+        "type": "Hauptwort",
+        "id": 836
+    },
+    {
+        "name": "Pastell",
+        "type": "Hauptwort",
+        "id": 837
+    },
+    {
+        "name": "Patenschaft",
+        "type": "Hauptwort",
+        "id": 838
+    },
+    {
+        "name": "Patient",
+        "type": "Hauptwort",
+        "id": 839
+    },
+    {
+        "name": "Pause",
+        "type": "Hauptwort",
+        "id": 840
+    },
+    {
+        "name": "Pazifik",
+        "type": "Hauptwort",
+        "id": 841
+    },
+    {
+        "name": "Pech",
+        "type": "Hauptwort",
+        "id": 842
+    },
+    {
+        "name": "Pedant",
+        "type": "Hauptwort",
+        "id": 843
+    },
+    {
+        "name": "Pegel",
+        "type": "Hauptwort",
+        "id": 844
+    },
+    {
+        "name": "Peitsche",
+        "type": "Hauptwort",
+        "id": 845
+    },
+    {
+        "name": "Pelz",
+        "type": "Hauptwort",
+        "id": 846
+    },
+    {
+        "name": "Perle",
+        "type": "Hauptwort",
+        "id": 847
+    },
+    {
+        "name": "Person",
+        "type": "Hauptwort",
+        "id": 848
+    },
+    {
+        "name": "Persönlichkeit",
+        "type": "Hauptwort",
+        "id": 849
+    },
+    {
+        "name": "Petersilie",
+        "type": "Hauptwort",
+        "id": 850
+    },
+    {
+        "name": "Petroleum",
+        "type": "Hauptwort",
+        "id": 851
+    },
+    {
+        "name": "Pfad",
+        "type": "Hauptwort",
+        "id": 852
+    },
+    {
+        "name": "Pferd",
+        "type": "Hauptwort",
+        "id": 853
+    },
+    {
+        "name": "Pflege",
+        "type": "Hauptwort",
+        "id": 854
+    },
+    {
+        "name": "Pfingsten",
+        "type": "Hauptwort",
+        "id": 855
+    },
+    {
+        "name": "Pflanze",
+        "type": "Hauptwort",
+        "id": 856
+    },
+    {
+        "name": "Pflaster",
+        "type": "Hauptwort",
+        "id": 857
+    },
+    {
+        "name": "Pflicht",
+        "type": "Hauptwort",
+        "id": 858
+    },
+    {
+        "name": "Pfund",
+        "type": "Hauptwort",
+        "id": 859
+    },
+    {
+        "name": "Pflug",
+        "type": "Hauptwort",
+        "id": 860
+    },
+    {
+        "name": "Phänomen",
+        "type": "Hauptwort",
+        "id": 861
+    },
+    {
+        "name": "Philosophie",
+        "type": "Hauptwort",
+        "id": 862
+    },
+    {
+        "name": "Physik",
+        "type": "Hauptwort",
+        "id": 863
+    },
+    {
+        "name": "Pilz",
+        "type": "Hauptwort",
+        "id": 864
+    },
+    {
+        "name": "Pinsel",
+        "type": "Hauptwort",
+        "id": 865
+    },
+    {
+        "name": "Pionier",
+        "type": "Hauptwort",
+        "id": 866
+    },
+    {
+        "name": "Pirat",
+        "type": "Hauptwort",
+        "id": 867
+    },
+    {
+        "name": "Pistole",
+        "type": "Hauptwort",
+        "id": 868
+    },
+    {
+        "name": "Plan",
+        "type": "Hauptwort",
+        "id": 869
+    },
+    {
+        "name": "Planet",
+        "type": "Hauptwort",
+        "id": 870
+    },
+    {
+        "name": "Plantage",
+        "type": "Hauptwort",
+        "id": 871
+    },
+    {
+        "name": "Plastik",
+        "type": "Hauptwort",
+        "id": 872
+    },
+    {
+        "name": "Platz",
+        "type": "Hauptwort",
+        "id": 873
+    },
+    {
+        "name": "Plüsch",
+        "type": "Hauptwort",
+        "id": 874
+    },
+    {
+        "name": "Poesie",
+        "type": "Hauptwort",
+        "id": 875
+    },
+    {
+        "name": "Politik",
+        "type": "Hauptwort",
+        "id": 876
+    },
+    {
+        "name": "Polizist",
+        "type": "Hauptwort",
+        "id": 877
+    },
+    {
+        "name": "Polster",
+        "type": "Hauptwort",
+        "id": 878
+    },
+    {
+        "name": "Porzellan",
+        "type": "Hauptwort",
+        "id": 879
+    },
+    {
+        "name": "Portion",
+        "type": "Hauptwort",
+        "id": 880
+    },
+    {
+        "name": "Positivität",
+        "type": "Hauptwort",
+        "id": 881
+    },
+    {
+        "name": "Post",
+        "type": "Hauptwort",
+        "id": 882
+    },
+    {
+        "name": "Postkarte",
+        "type": "Hauptwort",
+        "id": 883
+    },
+    {
+        "name": "Pracht",
+        "type": "Hauptwort",
+        "id": 884
+    },
+    {
+        "name": "Praxis",
+        "type": "Hauptwort",
+        "id": 885
+    },
+    {
+        "name": "Preis",
+        "type": "Hauptwort",
+        "id": 886
+    },
+    {
+        "name": "Predigt",
+        "type": "Hauptwort",
+        "id": 887
+    },
+    {
+        "name": "Priester",
+        "type": "Hauptwort",
+        "id": 888
+    },
+    {
+        "name": "Problem",
+        "type": "Hauptwort",
+        "id": 889
+    },
+    {
+        "name": "Produktion",
+        "type": "Hauptwort",
+        "id": 890
+    },
+    {
+        "name": "Professor",
+        "type": "Hauptwort",
+        "id": 891
+    },
+    {
+        "name": "Programm",
+        "type": "Hauptwort",
+        "id": 892
+    },
+    {
+        "name": "Projekt",
+        "type": "Hauptwort",
+        "id": 893
+    },
+    {
+        "name": "Proletariat",
+        "type": "Hauptwort",
+        "id": 894
+    },
+    {
+        "name": "Prophet",
+        "type": "Hauptwort",
+        "id": 895
+    },
+    {
+        "name": "Prosa",
+        "type": "Hauptwort",
+        "id": 896
+    },
+    {
+        "name": "Prüfung",
+        "type": "Hauptwort",
+        "id": 897
+    },
+    {
+        "name": "Puder",
+        "type": "Hauptwort",
+        "id": 898
+    },
+    {
+        "name": "Pünktlichkeit",
+        "type": "Hauptwort",
+        "id": 899
+    },
+    {
+        "name": "Puppe",
+        "type": "Hauptwort",
+        "id": 900
+    },
+    {
+        "name": "Purpur",
+        "type": "Hauptwort",
+        "id": 901
+    },
+    {
+        "name": "Putz",
+        "type": "Hauptwort",
+        "id": 902
+    },
+    {
+        "name": "Pyramide",
+        "type": "Hauptwort",
+        "id": 903
+    },
+    {
+        "name": "Qualität",
+        "type": "Hauptwort",
+        "id": 904
+    },
+    {
+        "name": "Qualm",
+        "type": "Hauptwort",
+        "id": 905
+    },
+    {
+        "name": "Quarz",
+        "type": "Hauptwort",
+        "id": 906
+    },
+    {
+        "name": "Quelle",
+        "type": "Hauptwort",
+        "id": 907
+    },
+    {
+        "name": "Quirl",
+        "type": "Hauptwort",
+        "id": 908
+    },
+    {
+        "name": "Rabe",
+        "type": "Hauptwort",
+        "id": 909
+    },
+    {
+        "name": "Rache",
+        "type": "Hauptwort",
+        "id": 910
+    },
+    {
+        "name": "Rad",
+        "type": "Hauptwort",
+        "id": 911
+    },
+    {
+        "name": "Radio",
+        "type": "Hauptwort",
+        "id": 912
+    },
+    {
+        "name": "Radreifen",
+        "type": "Hauptwort",
+        "id": 913
+    },
+    {
+        "name": "Rahmen",
+        "type": "Hauptwort",
+        "id": 914
+    },
+    {
+        "name": "Rand",
+        "type": "Hauptwort",
+        "id": 915
+    },
+    {
+        "name": "Ranke",
+        "type": "Hauptwort",
+        "id": 916
+    },
+    {
+        "name": "Rasen",
+        "type": "Hauptwort",
+        "id": 917
+    },
+    {
+        "name": "Rat",
+        "type": "Hauptwort",
+        "id": 918
+    },
+    {
+        "name": "Ratte",
+        "type": "Hauptwort",
+        "id": 919
+    },
+    {
+        "name": "Rauch",
+        "type": "Hauptwort",
+        "id": 920
+    },
+    {
+        "name": "Raum",
+        "type": "Hauptwort",
+        "id": 921
+    },
+    {
+        "name": "Rausch",
+        "type": "Hauptwort",
+        "id": 922
+    },
+    {
+        "name": "Rechen",
+        "type": "Hauptwort",
+        "id": 923
+    },
+    {
+        "name": "Recht",
+        "type": "Hauptwort",
+        "id": 924
+    },
+    {
+        "name": "Rede",
+        "type": "Hauptwort",
+        "id": 925
+    },
+    {
+        "name": "Reichtum",
+        "type": "Hauptwort",
+        "id": 926
+    },
+    {
+        "name": "Reifen",
+        "type": "Hauptwort",
+        "id": 927
+    },
+    {
+        "name": "Reim",
+        "type": "Hauptwort",
+        "id": 928
+    },
+    {
+        "name": "Reinheit",
+        "type": "Hauptwort",
+        "id": 929
+    },
+    {
+        "name": "Reise",
+        "type": "Hauptwort",
+        "id": 930
+    },
+    {
+        "name": "Reisender",
+        "type": "Hauptwort",
+        "id": 931
+    },
+    {
+        "name": "Reiter",
+        "type": "Hauptwort",
+        "id": 932
+    },
+    {
+        "name": "Rekord",
+        "type": "Hauptwort",
+        "id": 933
+    },
+    {
+        "name": "Religion",
+        "type": "Hauptwort",
+        "id": 934
+    },
+    {
+        "name": "Rente",
+        "type": "Hauptwort",
+        "id": 935
+    },
+    {
+        "name": "Republik",
+        "type": "Hauptwort",
+        "id": 936
+    },
+    {
+        "name": "Rest",
+        "type": "Hauptwort",
+        "id": 937
+    },
+    {
+        "name": "Resultat",
+        "type": "Hauptwort",
+        "id": 938
+    },
+    {
+        "name": "Reichtum",
+        "type": "Hauptwort",
+        "id": 939
+    },
+    {
+        "name": "Revolution",
+        "type": "Hauptwort",
+        "id": 940
+    },
+    {
+        "name": "Rhabarber",
+        "type": "Hauptwort",
+        "id": 941
+    },
+    {
+        "name": "Rhythmus",
+        "type": "Hauptwort",
+        "id": 942
+    },
+    {
+        "name": "Richter",
+        "type": "Hauptwort",
+        "id": 943
+    },
+    {
+        "name": "Richtung",
+        "type": "Hauptwort",
+        "id": 944
+    },
+    {
+        "name": "Riegel",
+        "type": "Hauptwort",
+        "id": 945
+    },
+    {
+        "name": "Rind",
+        "type": "Hauptwort",
+        "id": 946
+    },
+    {
+        "name": "Ring",
+        "type": "Hauptwort",
+        "id": 947
+    },
+    {
+        "name": "Rinne",
+        "type": "Hauptwort",
+        "id": 948
+    },
+    {
+        "name": "Rippe",
+        "type": "Hauptwort",
+        "id": 949
+    },
+    {
+        "name": "Risiko",
+        "type": "Hauptwort",
+        "id": 950
+    },
+    {
+        "name": "Ritt",
+        "type": "Hauptwort",
+        "id": 951
+    },
+    {
+        "name": "Ritter",
+        "type": "Hauptwort",
+        "id": 952
+    },
+    {
+        "name": "Rock",
+        "type": "Hauptwort",
+        "id": 953
+    },
+    {
+        "name": "Rohr",
+        "type": "Hauptwort",
+        "id": 954
+    },
+    {
+        "name": "Rolle",
+        "type": "Hauptwort",
+        "id": 955
+    },
+    {
+        "name": "Roman",
+        "type": "Hauptwort",
+        "id": 956
+    },
+    {
+        "name": "Rose",
+        "type": "Hauptwort",
+        "id": 957
+    },
+    {
+        "name": "Rost",
+        "type": "Hauptwort",
+        "id": 958
+    },
+    {
+        "name": "Rot",
+        "type": "Hauptwort",
+        "id": 959
+    },
+    {
+        "name": "Rubin",
+        "type": "Hauptwort",
+        "id": 960
+    },
+    {
+        "name": "Rücken",
+        "type": "Hauptwort",
+        "id": 961
+    },
+    {
+        "name": "Ruder",
+        "type": "Hauptwort",
+        "id": 962
+    },
+    {
+        "name": "Ruf",
+        "type": "Hauptwort",
+        "id": 963
+    },
+    {
+        "name": "Ruhe",
+        "type": "Hauptwort",
+        "id": 964
+    },
+    {
+        "name": "Ruhm",
+        "type": "Hauptwort",
+        "id": 965
+    },
+    {
+        "name": "Rumpf",
+        "type": "Hauptwort",
+        "id": 966
+    },
+    {
+        "name": "Rüssel",
+        "type": "Hauptwort",
+        "id": 967
+    },
+    {
+        "name": "Rute",
+        "type": "Hauptwort",
+        "id": 968
+    },
+    {
+        "name": "Saat",
+        "type": "Hauptwort",
+        "id": 969
+    },
+    {
+        "name": "Sack",
+        "type": "Hauptwort",
+        "id": 970
+    },
+    {
+        "name": "Säge",
+        "type": "Hauptwort",
+        "id": 971
+    },
+    {
+        "name": "Sahne",
+        "type": "Hauptwort",
+        "id": 972
+    },
+    {
+        "name": "Salami",
+        "type": "Hauptwort",
+        "id": 973
+    },
+    {
+        "name": "Salat",
+        "type": "Hauptwort",
+        "id": 974
+    },
+    {
+        "name": "Salz",
+        "type": "Hauptwort",
+        "id": 975
+    },
+    {
+        "name": "Sand",
+        "type": "Hauptwort",
+        "id": 976
+    },
+    {
+        "name": "Sängerin",
+        "type": "Hauptwort",
+        "id": 977
+    },
+    {
+        "name": "Sang",
+        "type": "Hauptwort",
+        "id": 978
+    },
+    {
+        "name": "Sarg",
+        "type": "Hauptwort",
+        "id": 979
+    },
+    {
+        "name": "Satan",
+        "type": "Hauptwort",
+        "id": 980
+    },
+    {
+        "name": "Sattel",
+        "type": "Hauptwort",
+        "id": 981
+    },
+    {
+        "name": "Satz",
+        "type": "Hauptwort",
+        "id": 982
+    },
+    {
+        "name": "Sau",
+        "type": "Hauptwort",
+        "id": 983
+    },
+    {
+        "name": "Sauerstoff",
+        "type": "Hauptwort",
+        "id": 984
+    },
+    {
+        "name": "Schacht",
+        "type": "Hauptwort",
+        "id": 985
+    },
+    {
+        "name": "Schaden",
+        "type": "Hauptwort",
+        "id": 986
+    },
+    {
+        "name": "Schäfer",
+        "type": "Hauptwort",
+        "id": 987
+    },
+    {
+        "name": "Schaf",
+        "type": "Hauptwort",
+        "id": 988
+    },
+    {
+        "name": "Schal",
+        "type": "Hauptwort",
+        "id": 989
+    },
+    {
+        "name": "Schale",
+        "type": "Hauptwort",
+        "id": 990
+    },
+    {
+        "name": "Schall",
+        "type": "Hauptwort",
+        "id": 991
+    },
+    {
+        "name": "Scham",
+        "type": "Hauptwort",
+        "id": 992
+    },
+    {
+        "name": "Schande",
+        "type": "Hauptwort",
+        "id": 993
+    },
+    {
+        "name": "Scharf",
+        "type": "Hauptwort",
+        "id": 994
+    },
+    {
+        "name": "Schatten",
+        "type": "Hauptwort",
+        "id": 995
+    },
+    {
+        "name": "Schatz",
+        "type": "Hauptwort",
+        "id": 996
+    },
+    {
+        "name": "Schauer",
+        "type": "Hauptwort",
+        "id": 997
+    },
+    {
+        "name": "Schauspiel",
+        "type": "Hauptwort",
+        "id": 998
+    },
+    {
+        "name": "Schaum",
+        "type": "Hauptwort",
+        "id": 999
+    },
+    {
+        "name": "Scheibe",
+        "type": "Hauptwort",
+        "id": 1000
+    },
+    {
+        "name": "Scheide",
+        "type": "Hauptwort",
+        "id": 1001
+    },
+    {
+        "name": "Schein",
+        "type": "Hauptwort",
+        "id": 1002
+    },
+    {
+        "name": "Schelten",
+        "type": "Hauptwort",
+        "id": 1003
+    },
+    {
+        "name": "Schenkel",
+        "type": "Hauptwort",
+        "id": 1004
+    },
+    {
+        "name": "Scherbe",
+        "type": "Hauptwort",
+        "id": 1005
+    },
+    {
+        "name": "Scherz",
+        "type": "Hauptwort",
+        "id": 1006
+    },
+    {
+        "name": "Scheune",
+        "type": "Hauptwort",
+        "id": 1007
+    },
+    {
+        "name": "Schick",
+        "type": "Hauptwort",
+        "id": 1008
+    },
+    {
+        "name": "Schicksal",
+        "type": "Hauptwort",
+        "id": 1009
+    },
+    {
+        "name": "Schiene",
+        "type": "Hauptwort",
+        "id": 1010
+    },
+    {
+        "name": "Schifffahrt",
+        "type": "Hauptwort",
+        "id": 1011
+    },
+    {
+        "name": "Schild",
+        "type": "Hauptwort",
+        "id": 1012
+    },
+    {
+        "name": "Schimmel",
+        "type": "Hauptwort",
+        "id": 1013
+    },
+    {
+        "name": "Schlaf",
+        "type": "Hauptwort",
+        "id": 1014
+    },
+    {
+        "name": "Schlamm",
+        "type": "Hauptwort",
+        "id": 1015
+    },
+    {
+        "name": "Schlag",
+        "type": "Hauptwort",
+        "id": 1016
+    },
+    {
+        "name": "Schleife",
+        "type": "Hauptwort",
+        "id": 1017
+    },
+    {
+        "name": "Schleim",
+        "type": "Hauptwort",
+        "id": 1018
+    },
+    {
+        "name": "Schloss",
+        "type": "Hauptwort",
+        "id": 1019
+    },
+    {
+        "name": "Schmerz",
+        "type": "Hauptwort",
+        "id": 1020
+    },
+    {
+        "name": "Schmetterling",
+        "type": "Hauptwort",
+        "id": 1021
+    },
+    {
+        "name": "Schmuck",
+        "type": "Hauptwort",
+        "id": 1022
+    },
+    {
+        "name": "Schnee",
+        "type": "Hauptwort",
+        "id": 1023
+    },
+    {
+        "name": "Schneider",
+        "type": "Hauptwort",
+        "id": 1024
+    },
+    {
+        "name": "Schnell",
+        "type": "Hauptwort",
+        "id": 1025
+    },
+    {
+        "name": "Schokolade",
+        "type": "Hauptwort",
+        "id": 1026
+    },
+    {
+        "name": "Scholle",
+        "type": "Hauptwort",
+        "id": 1027
+    },
+    {
+        "name": "Schornstein",
+        "type": "Hauptwort",
+        "id": 1028
+    },
+    {
+        "name": "Schote",
+        "type": "Hauptwort",
+        "id": 1029
+    },
+    {
+        "name": "Schraube",
+        "type": "Hauptwort",
+        "id": 1030
+    },
+    {
+        "name": "Schrei",
+        "type": "Hauptwort",
+        "id": 1031
+    },
+    {
+        "name": "Schrift",
+        "type": "Hauptwort",
+        "id": 1032
+    },
+    {
+        "name": "Schritt",
+        "type": "Hauptwort",
+        "id": 1033
+    },
+    {
+        "name": "Schulter",
+        "type": "Hauptwort",
+        "id": 1034
+    },
+    {
+        "name": "Schulz",
+        "type": "Hauptwort",
+        "id": 1035
+    },
+    {
+        "name": "Schurke",
+        "type": "Hauptwort",
+        "id": 1036
+    },
+    {
+        "name": "Schuss",
+        "type": "Hauptwort",
+        "id": 1037
+    },
+    {
+        "name": "Schutz",
+        "type": "Hauptwort",
+        "id": 1038
+    },
+    {
+        "name": "Schwachheit",
+        "type": "Hauptwort",
+        "id": 1039
+    },
+    {
+        "name": "Schwan",
+        "type": "Hauptwort",
+        "id": 1040
+    },
+    {
+        "name": "Schwarm",
+        "type": "Hauptwort",
+        "id": 1041
+    },
+    {
+        "name": "Schwarz",
+        "type": "Hauptwort",
+        "id": 1042
+    },
+    {
+        "name": "Schweigen",
+        "type": "Hauptwort",
+        "id": 1043
+    },
+    {
+        "name": "Schwein",
+        "type": "Hauptwort",
+        "id": 1044
+    },
+    {
+        "name": "Schweiß",
+        "type": "Hauptwort",
+        "id": 1045
+    },
+    {
+        "name": "Schwelle",
+        "type": "Hauptwort",
+        "id": 1046
+    },
+    {
+        "name": "Schwert",
+        "type": "Hauptwort",
+        "id": 1047
+    },
+    {
+        "name": "Schwester",
+        "type": "Hauptwort",
+        "id": 1048
+    },
+    {
+        "name": "Schwierigkeit",
+        "type": "Hauptwort",
+        "id": 1049
+    },
+    {
+        "name": "Schwindel",
+        "type": "Hauptwort",
+        "id": 1050
+    },
+    {
+        "name": "See",
+        "type": "Hauptwort",
+        "id": 1051
+    },
+    {
+        "name": "Seele",
+        "type": "Hauptwort",
+        "id": 1052
+    },
+    {
+        "name": "Segel",
+        "type": "Hauptwort",
+        "id": 1053
+    },
+    {
+        "name": "Segen",
+        "type": "Hauptwort",
+        "id": 1054
+    },
+    {
+        "name": "Seide",
+        "type": "Hauptwort",
+        "id": 1055
+    },
+    {
+        "name": "Seife",
+        "type": "Hauptwort",
+        "id": 1056
+    },
+    {
+        "name": "Seil",
+        "type": "Hauptwort",
+        "id": 1057
+    },
+    {
+        "name": "Seite",
+        "type": "Hauptwort",
+        "id": 1058
+    },
+    {
+        "name": "Sekretär",
+        "type": "Hauptwort",
+        "id": 1059
+    },
+    {
+        "name": "Sekunde",
+        "type": "Hauptwort",
+        "id": 1060
+    },
+    {
+        "name": "Selbst",
+        "type": "Hauptwort",
+        "id": 1061
+    },
+    {
+        "name": "Selbstvertrauen",
+        "type": "Hauptwort",
+        "id": 1062
+    },
+    {
+        "name": "Seligkeit",
+        "type": "Hauptwort",
+        "id": 1063
+    },
+    {
+        "name": "Senf",
+        "type": "Hauptwort",
+        "id": 1064
+    },
+    {
+        "name": "Sensation",
+        "type": "Hauptwort",
+        "id": 1065
+    },
+    {
+        "name": "Sinn",
+        "type": "Hauptwort",
+        "id": 1066
+    },
+    {
+        "name": "Sitzung",
+        "type": "Hauptwort",
+        "id": 1067
+    },
+    {
+        "name": "Sklave",
+        "type": "Hauptwort",
+        "id": 1068
+    },
+    {
+        "name": "Soldat",
+        "type": "Hauptwort",
+        "id": 1069
+    },
+    {
+        "name": "Sohn",
+        "type": "Hauptwort",
+        "id": 1070
+    },
+    {
+        "name": "Sommer",
+        "type": "Hauptwort",
+        "id": 1071
+    },
+    {
+        "name": "Sonde",
+        "type": "Hauptwort",
+        "id": 1072
+    },
+    {
+        "name": "Sonne",
+        "type": "Hauptwort",
+        "id": 1073
+    },
+    {
+        "name": "Sonntag",
+        "type": "Hauptwort",
+        "id": 1074
+    },
+    {
+        "name": "Sorge",
+        "type": "Hauptwort",
+        "id": 1075
+    },
+    {
+        "name": "Sorgfalt",
+        "type": "Hauptwort",
+        "id": 1076
+    },
+    {
+        "name": "Sorte",
+        "type": "Hauptwort",
+        "id": 1077
+    },
+    {
+        "name": "Soundsoviel",
+        "type": "Hauptwort",
+        "id": 1078
+    },
+    {
+        "name": "Spanien",
+        "type": "Hauptwort",
+        "id": 1079
+    },
+    {
+        "name": "Spannung",
+        "type": "Hauptwort",
+        "id": 1080
+    },
+    {
+        "name": "Spaß",
+        "type": "Hauptwort",
+        "id": 1081
+    },
+    {
+        "name": "Specht",
+        "type": "Hauptwort",
+        "id": 1082
+    },
+    {
+        "name": "Speer",
+        "type": "Hauptwort",
+        "id": 1083
+    },
+    {
+        "name": "Speise",
+        "type": "Hauptwort",
+        "id": 1084
+    },
+    {
+        "name": "Spiegel",
+        "type": "Hauptwort",
+        "id": 1085
+    },
+    {
+        "name": "Spiel",
+        "type": "Hauptwort",
+        "id": 1086
+    },
+    {
+        "name": "Spinat",
+        "type": "Hauptwort",
+        "id": 1087
+    },
+    {
+        "name": "Spion",
+        "type": "Hauptwort",
+        "id": 1088
+    },
+    {
+        "name": "Sprache",
+        "type": "Hauptwort",
+        "id": 1089
+    },
+    {
+        "name": "Spritze",
+        "type": "Hauptwort",
+        "id": 1090
+    },
+    {
+        "name": "Sprung",
+        "type": "Hauptwort",
+        "id": 1091
+    },
+    {
+        "name": "Spur",
+        "type": "Hauptwort",
+        "id": 1092
+    },
+    {
+        "name": "Staat",
+        "type": "Hauptwort",
+        "id": 1093
+    },
+    {
+        "name": "Stadt",
+        "type": "Hauptwort",
+        "id": 1094
+    },
+    {
+        "name": "Stahl",
+        "type": "Hauptwort",
+        "id": 1095
+    },
+    {
+        "name": "Stamm",
+        "type": "Hauptwort",
+        "id": 1096
+    },
+    {
+        "name": "Stand",
+        "type": "Hauptwort",
+        "id": 1097
+    },
+    {
+        "name": "Stange",
+        "type": "Hauptwort",
+        "id": 1098
+    },
+    {
+        "name": "Stapel",
+        "type": "Hauptwort",
+        "id": 1099
+    },
+    {
+        "name": "Star",
+        "type": "Hauptwort",
+        "id": 1100
+    },
+    {
+        "name": "Start",
+        "type": "Hauptwort",
+        "id": 1101
+    },
+    {
+        "name": "Staub",
+        "type": "Hauptwort",
+        "id": 1102
+    },
+    {
+        "name": "Staude",
+        "type": "Hauptwort",
+        "id": 1103
+    },
+    {
+        "name": "Steg",
+        "type": "Hauptwort",
+        "id": 1104
+    },
+    {
+        "name": "Stein",
+        "type": "Hauptwort",
+        "id": 1105
+    },
+    {
+        "name": "Stempel",
+        "type": "Hauptwort",
+        "id": 1106
+    },
+    {
+        "name": "Stengel",
+        "type": "Hauptwort",
+        "id": 1107
+    },
+    {
+        "name": "Stern",
+        "type": "Hauptwort",
+        "id": 1108
+    },
+    {
+        "name": "Steuer",
+        "type": "Hauptwort",
+        "id": 1109
+    },
+    {
+        "name": "Stich",
+        "type": "Hauptwort",
+        "id": 1110
+    },
+    {
+        "name": "Stiefel",
+        "type": "Hauptwort",
+        "id": 1111
+    },
+    {
+        "name": "Stier",
+        "type": "Hauptwort",
+        "id": 1112
+    },
+    {
+        "name": "Stimme",
+        "type": "Hauptwort",
+        "id": 1113
+    },
+    {
+        "name": "Stimme",
+        "type": "Hauptwort",
+        "id": 1114
+    },
+    {
+        "name": "Stoff",
+        "type": "Hauptwort",
+        "id": 1115
+    },
+    {
+        "name": "Stolz",
+        "type": "Hauptwort",
+        "id": 1116
+    },
+    {
+        "name": "Störung",
+        "type": "Hauptwort",
+        "id": 1117
+    },
+    {
+        "name": "Strafe",
+        "type": "Hauptwort",
+        "id": 1118
+    },
+    {
+        "name": "Strahl",
+        "type": "Hauptwort",
+        "id": 1119
+    },
+    {
+        "name": "Strand",
+        "type": "Hauptwort",
+        "id": 1120
+    },
+    {
+        "name": "Straße",
+        "type": "Hauptwort",
+        "id": 1121
+    },
+    {
+        "name": "Strauß",
+        "type": "Hauptwort",
+        "id": 1122
+    },
+    {
+        "name": "Strecke",
+        "type": "Hauptwort",
+        "id": 1123
+    },
+    {
+        "name": "Streit",
+        "type": "Hauptwort",
+        "id": 1124
+    },
+    {
+        "name": "Strom",
+        "type": "Hauptwort",
+        "id": 1125
+    },
+    {
+        "name": "Strophe",
+        "type": "Hauptwort",
+        "id": 1126
+    },
+    {
+        "name": "Struktur",
+        "type": "Hauptwort",
+        "id": 1127
+    },
+    {
+        "name": "Stück",
+        "type": "Hauptwort",
+        "id": 1128
+    },
+    {
+        "name": "Stuhl",
+        "type": "Hauptwort",
+        "id": 1129
+    },
+    {
+        "name": "Stunde",
+        "type": "Hauptwort",
+        "id": 1130
+    },
+    {
+        "name": "Sturm",
+        "type": "Hauptwort",
+        "id": 1131
+    },
+    {
+        "name": "Substanz",
+        "type": "Hauptwort",
+        "id": 1132
+    },
+    {
+        "name": "Sünde",
+        "type": "Hauptwort",
+        "id": 1133
+    },
+    {
+        "name": "Suppe",
+        "type": "Hauptwort",
+        "id": 1134
+    },
+    {
+        "name": "Süßigkeit",
+        "type": "Hauptwort",
+        "id": 1135
+    },
+    {
+        "name": "Sumpf",
+        "type": "Hauptwort",
+        "id": 1136
+    },
+    {
+        "name": "Sünde",
+        "type": "Hauptwort",
+        "id": 1137
+    },
+    {
+        "name": "System",
+        "type": "Hauptwort",
+        "id": 1138
+    },
+    {
+        "name": "Tafel",
+        "type": "Hauptwort",
+        "id": 1139
+    },
+    {
+        "name": "Tag",
+        "type": "Hauptwort",
+        "id": 1140
+    },
+    {
+        "name": "Talent",
+        "type": "Hauptwort",
+        "id": 1141
+    },
+    {
+        "name": "Tal",
+        "type": "Hauptwort",
+        "id": 1142
+    },
+    {
+        "name": "Tanz",
+        "type": "Hauptwort",
+        "id": 1143
+    },
+    {
+        "name": "Tapferkeit",
+        "type": "Hauptwort",
+        "id": 1144
+    },
+    {
+        "name": "Tasche",
+        "type": "Hauptwort",
+        "id": 1145
+    },
+    {
+        "name": "Tat",
+        "type": "Hauptwort",
+        "id": 1146
+    },
+    {
+        "name": "Tatbestand",
+        "type": "Hauptwort",
+        "id": 1147
+    },
+    {
+        "name": "Taube",
+        "type": "Hauptwort",
+        "id": 1148
+    },
+    {
+        "name": "Taucher",
+        "type": "Hauptwort",
+        "id": 1149
+    },
+    {
+        "name": "Tausch",
+        "type": "Hauptwort",
+        "id": 1150
+    },
+    {
+        "name": "Tee",
+        "type": "Hauptwort",
+        "id": 1151
+    },
+    {
+        "name": "Teich",
+        "type": "Hauptwort",
+        "id": 1152
+    },
+    {
+        "name": "Teil",
+        "type": "Hauptwort",
+        "id": 1153
+    },
+    {
+        "name": "Teppich",
+        "type": "Hauptwort",
+        "id": 1154
+    },
+    {
+        "name": "Telefon",
+        "type": "Hauptwort",
+        "id": 1155
+    },
+    {
+        "name": "Temperament",
+        "type": "Hauptwort",
+        "id": 1156
+    },
+    {
+        "name": "Tempel",
+        "type": "Hauptwort",
+        "id": 1157
+    },
+    {
+        "name": "Tempo",
+        "type": "Hauptwort",
+        "id": 1158
+    },
+    {
+        "name": "Tennis",
+        "type": "Hauptwort",
+        "id": 1159
+    },
+    {
+        "name": "Teppich",
+        "type": "Hauptwort",
+        "id": 1160
+    },
+    {
+        "name": "Terrasse",
+        "type": "Hauptwort",
+        "id": 1161
+    },
+    {
+        "name": "Test",
+        "type": "Hauptwort",
+        "id": 1162
+    },
+    {
+        "name": "Theater",
+        "type": "Hauptwort",
+        "id": 1163
+    },
+    {
+        "name": "Tee",
+        "type": "Hauptwort",
+        "id": 1164
+    },
+    {
+        "name": "Tiefe",
+        "type": "Hauptwort",
+        "id": 1165
+    },
+    {
+        "name": "Tier",
+        "type": "Hauptwort",
+        "id": 1166
+    },
+    {
+        "name": "Tinte",
+        "type": "Hauptwort",
+        "id": 1167
+    },
+    {
+        "name": "Tisch",
+        "type": "Hauptwort",
+        "id": 1168
+    },
+    {
+        "name": "Titel",
+        "type": "Hauptwort",
+        "id": 1169
+    },
+    {
+        "name": "Tod",
+        "type": "Hauptwort",
+        "id": 1170
+    },
+    {
+        "name": "Toilette",
+        "type": "Hauptwort",
+        "id": 1171
+    },
+    {
+        "name": "Ton",
+        "type": "Hauptwort",
+        "id": 1172
+    },
+    {
+        "name": "Tonart",
+        "type": "Hauptwort",
+        "id": 1173
+    },
+    {
+        "name": "Tonleiter",
+        "type": "Hauptwort",
+        "id": 1174
+    },
+    {
+        "name": "Tonne",
+        "type": "Hauptwort",
+        "id": 1175
+    },
+    {
+        "name": "Topf",
+        "type": "Hauptwort",
+        "id": 1176
+    },
+    {
+        "name": "Tor",
+        "type": "Hauptwort",
+        "id": 1177
+    },
+    {
+        "name": "Torheit",
+        "type": "Hauptwort",
+        "id": 1178
+    },
+    {
+        "name": "Tourist",
+        "type": "Hauptwort",
+        "id": 1179
+    },
+    {
+        "name": "Tracht",
+        "type": "Hauptwort",
+        "id": 1180
+    },
+    {
+        "name": "Traktor",
+        "type": "Hauptwort",
+        "id": 1181
+    },
+    {
+        "name": "Träne",
+        "type": "Hauptwort",
+        "id": 1182
+    },
+    {
+        "name": "Tragödie",
+        "type": "Hauptwort",
+        "id": 1183
+    },
+    {
+        "name": "Traum",
+        "type": "Hauptwort",
+        "id": 1184
+    },
+    {
+        "name": "Trauer",
+        "type": "Hauptwort",
+        "id": 1185
+    },
+    {
+        "name": "Traufe",
+        "type": "Hauptwort",
+        "id": 1186
+    },
+    {
+        "name": "Treppe",
+        "type": "Hauptwort",
+        "id": 1187
+    },
+    {
+        "name": "Trick",
+        "type": "Hauptwort",
+        "id": 1188
+    },
+    {
+        "name": "Trichter",
+        "type": "Hauptwort",
+        "id": 1189
+    },
+    {
+        "name": "Trieb",
+        "type": "Hauptwort",
+        "id": 1190
+    },
+    {
+        "name": "Triumph",
+        "type": "Hauptwort",
+        "id": 1191
+    },
+    {
+        "name": "Trommel",
+        "type": "Hauptwort",
+        "id": 1192
+    },
+    {
+        "name": "Tropfen",
+        "type": "Hauptwort",
+        "id": 1193
+    },
+    {
+        "name": "Trost",
+        "type": "Hauptwort",
+        "id": 1194
+    },
+    {
+        "name": "Trotz",
+        "type": "Hauptwort",
+        "id": 1195
+    },
+    {
+        "name": "Truhe",
+        "type": "Hauptwort",
+        "id": 1196
+    },
+    {
+        "name": "Tuch",
+        "type": "Hauptwort",
+        "id": 1197
+    },
+    {
+        "name": "Tulpe",
+        "type": "Hauptwort",
+        "id": 1198
+    },
+    {
+        "name": "Turm",
+        "type": "Hauptwort",
+        "id": 1199
+    },
+    {
+        "name": "Turnier",
+        "type": "Hauptwort",
+        "id": 1200
+    },
+    {
+        "name": "Tusche",
+        "type": "Hauptwort",
+        "id": 1201
+    },
+    {
+        "name": "Tüte",
+        "type": "Hauptwort",
+        "id": 1202
+    },
+    {
+        "name": "Überblick",
+        "type": "Hauptwort",
+        "id": 1203
+    },
+    {
+        "name": "Überfall",
+        "type": "Hauptwort",
+        "id": 1204
+    },
+    {
+        "name": "Übergabe",
+        "type": "Hauptwort",
+        "id": 1205
+    },
+    {
+        "name": "Übergewicht",
+        "type": "Hauptwort",
+        "id": 1206
+    },
+    {
+        "name": "Überraschung",
+        "type": "Hauptwort",
+        "id": 1207
+    },
+    {
+        "name": "Übung",
+        "type": "Hauptwort",
+        "id": 1208
+    },
+    {
+        "name": "Uhr",
+        "type": "Hauptwort",
+        "id": 1209
+    },
+    {
+        "name": "Umschlag",
+        "type": "Hauptwort",
+        "id": 1210
+    },
+    {
+        "name": "Umstand",
+        "type": "Hauptwort",
+        "id": 1211
+    },
+    {
+        "name": "Unart",
+        "type": "Hauptwort",
+        "id": 1212
+    },
+    {
+        "name": "Unfall",
+        "type": "Hauptwort",
+        "id": 1213
+    },
+    {
+        "name": "Unruhe",
+        "type": "Hauptwort",
+        "id": 1214
+    },
+    {
+        "name": "Unterricht",
+        "type": "Hauptwort",
+        "id": 1215
+    },
+    {
+        "name": "Unterschied",
+        "type": "Hauptwort",
+        "id": 1216
+    },
+    {
+        "name": "Untertan",
+        "type": "Hauptwort",
+        "id": 1217
+    },
+    {
+        "name": "Unterhaltung",
+        "type": "Hauptwort",
+        "id": 1218
+    },
+    {
+        "name": "Unterschrift",
+        "type": "Hauptwort",
+        "id": 1219
+    },
+    {
+        "name": "Untersuchung",
+        "type": "Hauptwort",
+        "id": 1220
+    },
+    {
+        "name": "Unterwasser",
+        "type": "Hauptwort",
+        "id": 1221
+    },
+    {
+        "name": "Urlaub",
+        "type": "Hauptwort",
+        "id": 1222
+    },
+    {
+        "name": "Ursprung",
+        "type": "Hauptwort",
+        "id": 1223
+    },
+    {
+        "name": "Ursache",
+        "type": "Hauptwort",
+        "id": 1224
+    },
+    {
+        "name": "Urteil",
+        "type": "Hauptwort",
+        "id": 1225
+    },
+    {
+        "name": "Urwald",
+        "type": "Hauptwort",
+        "id": 1226
+    },
+    {
+        "name": "Vater",
+        "type": "Hauptwort",
+        "id": 1227
+    },
+    {
+        "name": "Veränderung",
+        "type": "Hauptwort",
+        "id": 1228
+    },
+    {
+        "name": "Verband",
+        "type": "Hauptwort",
+        "id": 1229
+    },
+    {
+        "name": "Verbrauch",
+        "type": "Hauptwort",
+        "id": 1230
+    },
+    {
+        "name": "Verdienst",
+        "type": "Hauptwort",
+        "id": 1231
+    },
+    {
+        "name": "Verein",
+        "type": "Hauptwort",
+        "id": 1232
+    },
+    {
+        "name": "Verfahren",
+        "type": "Hauptwort",
+        "id": 1233
+    },
+    {
+        "name": "Verführer",
+        "type": "Hauptwort",
+        "id": 1234
+    },
+    {
+        "name": "Vergangenheit",
+        "type": "Hauptwort",
+        "id": 1235
+    },
+    {
+        "name": "Vergleich",
+        "type": "Hauptwort",
+        "id": 1236
+    },
+    {
+        "name": "Verhältnis",
+        "type": "Hauptwort",
+        "id": 1237
+    },
+    {
+        "name": "Verhandlung",
+        "type": "Hauptwort",
+        "id": 1238
+    },
+    {
+        "name": "Verkündung",
+        "type": "Hauptwort",
+        "id": 1239
+    },
+    {
+        "name": "Verlauf",
+        "type": "Hauptwort",
+        "id": 1240
+    },
+    {
+        "name": "Verletzung",
+        "type": "Hauptwort",
+        "id": 1241
+    },
+    {
+        "name": "Verlust",
+        "type": "Hauptwort",
+        "id": 1242
+    },
+    {
+        "name": "Vermögen",
+        "type": "Hauptwort",
+        "id": 1243
+    },
+    {
+        "name": "Versand",
+        "type": "Hauptwort",
+        "id": 1244
+    },
+    {
+        "name": "Verschluss",
+        "type": "Hauptwort",
+        "id": 1245
+    },
+    {
+        "name": "Versuch",
+        "type": "Hauptwort",
+        "id": 1246
+    },
+    {
+        "name": "Versuchung",
+        "type": "Hauptwort",
+        "id": 1247
+    },
+    {
+        "name": "Vertrag",
+        "type": "Hauptwort",
+        "id": 1248
+    },
+    {
+        "name": "Vertreter",
+        "type": "Hauptwort",
+        "id": 1249
+    },
+    {
+        "name": "Verwandlung",
+        "type": "Hauptwort",
+        "id": 1250
+    },
+    {
+        "name": "Verzweiflung",
+        "type": "Hauptwort",
+        "id": 1251
+    },
+    {
+        "name": "Vieh",
+        "type": "Hauptwort",
+        "id": 1252
+    },
+    {
+        "name": "Viertel",
+        "type": "Hauptwort",
+        "id": 1253
+    },
+    {
+        "name": "Villa",
+        "type": "Hauptwort",
+        "id": 1254
+    },
+    {
+        "name": "Vogel",
+        "type": "Hauptwort",
+        "id": 1255
+    },
+    {
+        "name": "Volk",
+        "type": "Hauptwort",
+        "id": 1256
+    },
+    {
+        "name": "Völkerrecht",
+        "type": "Hauptwort",
+        "id": 1257
+    },
+    {
+        "name": "Voraussetzung",
+        "type": "Hauptwort",
+        "id": 1258
+    },
+    {
+        "name": "Vorbereitung",
+        "type": "Hauptwort",
+        "id": 1259
+    },
+    {
+        "name": "Vorschlag",
+        "type": "Hauptwort",
+        "id": 1260
+    },
+    {
+        "name": "Vorsicht",
+        "type": "Hauptwort",
+        "id": 1261
+    },
+    {
+        "name": "Vorteil",
+        "type": "Hauptwort",
+        "id": 1262
+    },
+    {
+        "name": "Vorwurf",
+        "type": "Hauptwort",
+        "id": 1263
+    },
+    {
+        "name": "Vulkan",
+        "type": "Hauptwort",
+        "id": 1264
+    },
+    {
+        "name": "Wache",
+        "type": "Hauptwort",
+        "id": 1265
+    },
+    {
+        "name": "Wagen",
+        "type": "Hauptwort",
+        "id": 1266
+    },
+    {
+        "name": "Wahl",
+        "type": "Hauptwort",
+        "id": 1267
+    },
+    {
+        "name": "Wahn",
+        "type": "Hauptwort",
+        "id": 1268
+    },
+    {
+        "name": "Wald",
+        "type": "Hauptwort",
+        "id": 1269
+    },
+    {
+        "name": "Wärme",
+        "type": "Hauptwort",
+        "id": 1270
+    },
+    {
+        "name": "Wartezeit",
+        "type": "Hauptwort",
+        "id": 1271
+    },
+    {
+        "name": "Wartung",
+        "type": "Hauptwort",
+        "id": 1272
+    },
+    {
+        "name": "Wasser",
+        "type": "Hauptwort",
+        "id": 1273
+    },
+    {
+        "name": "Wäsche",
+        "type": "Hauptwort",
+        "id": 1274
+    },
+    {
+        "name": "Wahn",
+        "type": "Hauptwort",
+        "id": 1275
+    },
+    {
+        "name": "Wahrheit",
+        "type": "Hauptwort",
+        "id": 1276
+    },
+    {
+        "name": "Wald",
+        "type": "Hauptwort",
+        "id": 1277
+    },
+    {
+        "name": "Wange",
+        "type": "Hauptwort",
+        "id": 1278
+    },
+    {
+        "name": "Wappen",
+        "type": "Hauptwort",
+        "id": 1279
+    },
+    {
+        "name": "Ware",
+        "type": "Hauptwort",
+        "id": 1280
+    },
+    {
+        "name": "Wärme",
+        "type": "Hauptwort",
+        "id": 1281
+    },
+    {
+        "name": "Warnung",
+        "type": "Hauptwort",
+        "id": 1282
+    },
+    {
+        "name": "Wartezeit",
+        "type": "Hauptwort",
+        "id": 1283
+    },
+    {
+        "name": "Wartung",
+        "type": "Hauptwort",
+        "id": 1284
+    },
+    {
+        "name": "Wasser",
+        "type": "Hauptwort",
+        "id": 1285
+    },
+    {
+        "name": "Wäsche",
+        "type": "Hauptwort",
+        "id": 1286
+    },
+    {
+        "name": "Wahn",
+        "type": "Hauptwort",
+        "id": 1287
+    },
+    {
+        "name": "Wahrheit",
+        "type": "Hauptwort",
+        "id": 1288
+    },
+    {
+        "name": "Währung",
+        "type": "Hauptwort",
+        "id": 1289
+    },
+    {
+        "name": "Wärme",
+        "type": "Hauptwort",
+        "id": 1290
+    },
+    {
+        "name": "Welle",
+        "type": "Hauptwort",
+        "id": 1291
+    },
+    {
+        "name": "Welt",
+        "type": "Hauptwort",
+        "id": 1292
+    },
+    {
+        "name": "Werk",
+        "type": "Hauptwort",
+        "id": 1293
+    },
+    {
+        "name": "Werkzeug",
+        "type": "Hauptwort",
+        "id": 1294
+    },
+    {
+        "name": "Wert",
+        "type": "Hauptwort",
+        "id": 1295
+    },
+    {
+        "name": "Wesen",
+        "type": "Hauptwort",
+        "id": 1296
+    },
+    {
+        "name": "Wette",
+        "type": "Hauptwort",
+        "id": 1297
+    },
+    {
+        "name": "Wetter",
+        "type": "Hauptwort",
+        "id": 1298
+    },
+    {
+        "name": "Wettbewerb",
+        "type": "Hauptwort",
+        "id": 1299
+    },
+    {
+        "name": "Widerspruch",
+        "type": "Hauptwort",
+        "id": 1300
+    },
+    {
+        "name": "Wiese",
+        "type": "Hauptwort",
+        "id": 1301
+    },
+    {
+        "name": "Wild",
+        "type": "Hauptwort",
+        "id": 1302
+    },
+    {
+        "name": "Wille",
+        "type": "Hauptwort",
+        "id": 1303
+    },
+    {
+        "name": "Winkel",
+        "type": "Hauptwort",
+        "id": 1304
+    },
+    {
+        "name": "Winter",
+        "type": "Hauptwort",
+        "id": 1305
+    },
+    {
+        "name": "Wirbel",
+        "type": "Hauptwort",
+        "id": 1306
+    },
+    {
+        "name": "Wirkung",
+        "type": "Hauptwort",
+        "id": 1307
+    },
+    {
+        "name": "Wirt",
+        "type": "Hauptwort",
+        "id": 1308
+    },
+    {
+        "name": "Wissenschaft",
+        "type": "Hauptwort",
+        "id": 1309
+    },
+    {
+        "name": "Witz",
+        "type": "Hauptwort",
+        "id": 1310
+    },
+    {
+        "name": "Wochenende",
+        "type": "Hauptwort",
+        "id": 1311
+    },
+    {
+        "name": "Wohin",
+        "type": "Hauptwort",
+        "id": 1312
+    },
+    {
+        "name": "Wolf",
+        "type": "Hauptwort",
+        "id": 1313
+    },
+    {
+        "name": "Wolke",
+        "type": "Hauptwort",
+        "id": 1314
+    },
+    {
+        "name": "Wolle",
+        "type": "Hauptwort",
+        "id": 1315
+    },
+    {
+        "name": "Wonne",
+        "type": "Hauptwort",
+        "id": 1316
+    },
+    {
+        "name": "Wort",
+        "type": "Hauptwort",
+        "id": 1317
+    },
+    {
+        "name": "Wrack",
+        "type": "Hauptwort",
+        "id": 1318
+    },
+    {
+        "name": "Wunder",
+        "type": "Hauptwort",
+        "id": 1319
+    },
+    {
+        "name": "Wunsch",
+        "type": "Hauptwort",
+        "id": 1320
+    },
+    {
+        "name": "Wurzel",
+        "type": "Hauptwort",
+        "id": 1321
+    },
+    {
+        "name": "Wut",
+        "type": "Hauptwort",
+        "id": 1322
+    },
+    {
+        "name": "Zahl",
+        "type": "Hauptwort",
+        "id": 1323
+    },
+    {
+        "name": "Zahlenreihe",
+        "type": "Hauptwort",
+        "id": 1324
+    },
+    {
+        "name": "Zahn",
+        "type": "Hauptwort",
+        "id": 1325
+    },
+    {
+        "name": "Zahnpasta",
+        "type": "Hauptwort",
+        "id": 1326
+    },
+    {
+        "name": "Zange",
+        "type": "Hauptwort",
+        "id": 1327
+    },
+    {
+        "name": "Zank",
+        "type": "Hauptwort",
+        "id": 1328
+    },
+    {
+        "name": "Zauber",
+        "type": "Hauptwort",
+        "id": 1329
+    },
+    {
+        "name": "Zaun",
+        "type": "Hauptwort",
+        "id": 1330
+    },
+    {
+        "name": "Zeichen",
+        "type": "Hauptwort",
+        "id": 1331
+    },
+    {
+        "name": "Zeit",
+        "type": "Hauptwort",
+        "id": 1332
+    },
+    {
+        "name": "Zeitung",
+        "type": "Hauptwort",
+        "id": 1333
+    },
+    {
+        "name": "Zelle",
+        "type": "Hauptwort",
+        "id": 1334
+    },
+    {
+        "name": "Zelt",
+        "type": "Hauptwort",
+        "id": 1335
+    },
+    {
+        "name": "Zeremonie",
+        "type": "Hauptwort",
+        "id": 1336
+    },
+    {
+        "name": "Ziegel",
+        "type": "Hauptwort",
+        "id": 1337
+    },
+    {
+        "name": "Ziel",
+        "type": "Hauptwort",
+        "id": 1338
+    },
+    {
+        "name": "Zigarette",
+        "type": "Hauptwort",
+        "id": 1339
+    },
+    {
+        "name": "Zirkus",
+        "type": "Hauptwort",
+        "id": 1340
+    },
+    {
+        "name": "Zisterne",
+        "type": "Hauptwort",
+        "id": 1341
+    },
+    {
+        "name": "Zivilisation",
+        "type": "Hauptwort",
+        "id": 1342
+    },
+    {
+        "name": "Zorn",
+        "type": "Hauptwort",
+        "id": 1343
+    },
+    {
+        "name": "Zone",
+        "type": "Hauptwort",
+        "id": 1344
+    },
+    {
+        "name": "Zoo",
+        "type": "Hauptwort",
+        "id": 1345
+    },
+    {
+        "name": "Zucker",
+        "type": "Hauptwort",
+        "id": 1346
+    },
+    {
+        "name": "Zunge",
+        "type": "Hauptwort",
+        "id": 1347
+    },
+    {
+        "name": "Zukunft",
+        "type": "Hauptwort",
+        "id": 1348
+    },
+    {
+        "name": "Zufall",
+        "type": "Hauptwort",
+        "id": 1349
+    },
+    {
+        "name": "Zug",
+        "type": "Hauptwort",
+        "id": 1350
+    },
+    {
+        "name": "Zunge",
+        "type": "Hauptwort",
+        "id": 1351
+    },
+    {
+        "name": "Zukunft",
+        "type": "Hauptwort",
+        "id": 1352
+    },
+    {
+        "name": "Zufriedenheit",
+        "type": "Hauptwort",
+        "id": 1353
+    },
+    {
+        "name": "Zuhörer",
+        "type": "Hauptwort",
+        "id": 1354
+    },
+    {
+        "name": "Zigarette",
+        "type": "Hauptwort",
+        "id": 1355
+    },
+    {
+        "name": "Zirkus",
+        "type": "Hauptwort",
+        "id": 1356
+    },
+    {
+        "name": "Zisterne",
+        "type": "Hauptwort",
+        "id": 1357
+    },
+    {
+        "name": "Zivilisation",
+        "type": "Hauptwort",
+        "id": 1358
+    },
+    {
+        "name": "Zorn",
+        "type": "Hauptwort",
+        "id": 1359
+    },
+    {
+        "name": "Zone",
+        "type": "Hauptwort",
+        "id": 1360
+    },
+    {
+        "name": "Zoo",
+        "type": "Hauptwort",
+        "id": 1361
+    },
+    {
+        "name": "Zucker",
+        "type": "Hauptwort",
+        "id": 1362
+    },
+    {
+        "name": "Zunge",
+        "type": "Hauptwort",
+        "id": 1363
+    },
+    {
+        "name": "Zukunft",
+        "type": "Hauptwort",
+        "id": 1364
+    },
+    {
+        "name": "Zufall",
+        "type": "Hauptwort",
+        "id": 1365
+    },
+    {
+        "name": "Zug",
+        "type": "Hauptwort",
+        "id": 1366
+    },
+    {
+        "name": "Zunge",
+        "type": "Hauptwort",
+        "id": 1367
+    },
+    {
+        "name": "Zukunft",
+        "type": "Hauptwort",
+        "id": 1368
+    },
+    {
+        "name": "Zufriedenheit",
+        "type": "Hauptwort",
+        "id": 1369
+    },
+    {
+        "name": "Zuhörer",
+        "type": "Hauptwort",
+        "id": 1370
+    },
+    {
+        "name": "Zündholz",
+        "type": "Hauptwort",
+        "id": 1371
+    },
+    {
+        "name": "Zunge",
+        "type": "Hauptwort",
+        "id": 1372
+    },
+    {
+        "name": "Zukunft",
+        "type": "Hauptwort",
+        "id": 1373
+    }
+]
