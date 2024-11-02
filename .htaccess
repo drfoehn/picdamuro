@@ -1,0 +1,6 @@
+
+AuthUserFile /var/www/virtual/drevil/.htpicdamuropw
+AuthType Basic
+AuthName "picdamuro"
+Require valid-user
+
