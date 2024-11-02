@@ -10541,12 +10541,14 @@ function select_allwords() {
 //     })
 
 
-function genRandomWord(){
+function genRandomWord() {
+    // Check if wordtype is defined and has words
     if (!wordtype || wordtype.length === 0) {
         alert('Bitte wähle zuerst eine Wortart und einen Schwierigkeitsgrad aus.');
         return;
     }
 
+    // Proceed with generating a random word
     let words = Object.keys(wordtype);
     let randomNumber = Math.random();
     let wordIndex = Math.floor(randomNumber * words.length);
@@ -10556,34 +10558,43 @@ function genRandomWord(){
 
     random_word.innerHTML = randomWord;
 
+    // Display the category of the selected word
     selectedCategory.innerHTML = "Kategorie: " + randomValue["category"];
 
     console.log(randomValue);
     console.log(randomWord);
 }
 
-noun_select.addEventListener('click', function (){
-    noun_select.dataset.clicked = "true"
-})
-verb_select.addEventListener('click', function (){
-    verb_select.dataset.clicked = "true"
-})
-allwords_select.addEventListener('click', function (){
-    allwords_select.dataset.clicked = "true"
-})
+noun_select.addEventListener('click', function() {
+    noun_select.dataset.clicked = "true";
+    wordtype = $.grep(wordsArray, function(n) {
+        return n.type === 'Hauptwort'; 
+    });
+});
 
-new_word.addEventListener("click", function(){
+verb_select.addEventListener('click', function() {
+    verb_select.dataset.clicked = "true";
+    wordtype = $.grep(wordsArray, function(n) {
+        return n.type === 'Verb'; 
+    });
+});
 
-    if(noun_select.dataset.clicked){
+allwords_select.addEventListener('click', function() {
+    allwords_select.dataset.clicked = "true";
+    wordtype = wordsArray; 
+});
+
+new_word.addEventListener("click", function() {
+    if (noun_select.dataset.clicked) {
         select_noun();
-    } else if(verb_select.dataset.clicked){
-        select_verb()
-    } else if(allwords_select.dataset.clicked){
-        select_allwords()
+    } else if (verb_select.dataset.clicked) {
+        select_verb();
+    } else if (allwords_select.dataset.clicked) {
+        select_allwords();
     } else {
-    alert('Wähle zuerst eine Wortart aus');
-    return;
-    };
+        alert('Wähle zuerst eine Wortart aus'); // Alert if no type is selected
+        return; // Exit if no type is selected
+    }
     genRandomWord();
     delete noun_select.dataset.clicked;
     delete verb_select.dataset.clicked;
@@ -10594,7 +10605,7 @@ new_word.addEventListener("click", function(){
     timer.style.color = 'black';
     random_word.style.color = "black";
     dice.style.display = 'none';
-})
+});
 
 // ------------------------ TIMER FUNCTION ---------------------------
 
